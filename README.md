@@ -1,4 +1,4 @@
- [ **Bevezetés** ] -- [ [Bitcoin tarca](tarca.md) ] -- [ [Hol vasarolj?](vasarlas.md) ]
+ [ **Bevezetés** ] -- [ [Bitcoin tárca](tarca.md) ] -- [ [Hol vásárolj?](vasarlas.md) ]
 
 *Ez a dokumentum kezdőknek  való bevezetésre szolgál saját kutatás és tapasztalatok alapján. Folyamatos fejlesztés alatt. Javaslatokat és korrekciókat szívesen veszek.*
 

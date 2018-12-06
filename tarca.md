@@ -1,4 +1,4 @@
-[ [Bevezetes](README.md) ]  -- [  **Bitcoin tarca** ] --[ [Hol vasarolj?](vasarlas.md) ]
+[ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Hol vásárolj?](vasarlas.md) ]
 
 **Be your own bank.**
 
