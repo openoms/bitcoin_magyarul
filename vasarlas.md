@@ -9,7 +9,7 @@ Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltásh
 
 Pár fogalmat érdemes ismerni az exchange-ekkel kapcsolatban:
 
-KYC: Know You Costumer \
+KYC: Know Your Customer \
 AML:  Anti-Money Laundering
 
 Ez a két rövidítés az USA-ból származó törvényi követelményekre utal, ami pénz kezelés esetében a kereskedők és ügyfelek adatainak rögzítését teszi kötelezővé.
