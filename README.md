@@ -25,7 +25,7 @@ Nem hivatalos oldal:
 <https://bitcoin.org/hu/> (vigyázz a bitcoin. com csalás)
 
 ---
-Olvasnivaló angolul:
+**Angolul:**
 
 Cypherpunk Manifesto (1993 március 9.):
 <https://nakamotoinstitute.org/cypherpunk-manifesto/>
