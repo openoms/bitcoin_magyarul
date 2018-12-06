@@ -6,7 +6,9 @@
 
 1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától.
 2. **Engedély-nélküli (permissionless)**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokol szabályait.
-3. **Kötött mennyiségű**: a protokol összesen 21 millió bitcoin létrehozását teszi lehetővé.
+3. **Kötött mennyiségű**: a protokol összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs senkinek a hatalmában ezt megváltoztatni.
+4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A bitcoin blockchain 2009 január 3-án indult és azóta termeli blokkjait átlagosan 10 percenként.
+5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot <https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all>
 
 # Technikai összetevők
 
@@ -19,9 +21,9 @@
 
 **Továbbiak magyarul:**
 
-A Bitcoin WhitePaper: <https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/>
+A Bitcoin WhitePaper fordítása: <https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/>
 
-Nem hivatalos oldal:
+Nem hivatalos oldal: \
 <https://bitcoin.org/hu/> (vigyázz a bitcoin. com csalás)
 
 ---
