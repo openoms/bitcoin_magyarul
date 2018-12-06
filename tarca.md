@@ -2,8 +2,8 @@
 
 **Be your own bank.**
 
-A bitcoin tárolása tárcákban (wallet) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot (private key), ami a coin elköltéséhez szükséges. 
-Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből. 
+A bitcoin tárolása tárcákban (wallet) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot (private key), ami a coin elköltéséhez szükséges.
+Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből.
 
 A private key teljes hozzáférést ad a hozzá tartozó coinokhoz így különösen lényeges, h mennyire biztonságos a tárca-alkalmazás.
 
