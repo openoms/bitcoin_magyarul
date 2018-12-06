@@ -3,7 +3,7 @@
 Elérkeztünk odáig, hogy a kormány által kibocsátott (fiat) pénzünket szeretnénk igazi kemény bitcoinra váltani.
 
 Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltáshoz és mozgatáshoz érdemes egy Revolut accountot és kártyát szerezni. Ingyenes és nemzetközi utazáshoz is hasznos.\
-https://www.revolut.com
+<https://www.revolut.com>
 
 ---
 
@@ -14,28 +14,28 @@ AML:  Anti-Money Laundering
 
 Ez a két rövidítés az USA-ból származó törvényi követelményekre utal, ami pénz kezelés esetében a kereskedők és ügyfelek adatainak rögzítését teszi kötelezővé.
 
-Ezzel a szabályozással minden fiat pénzt tároló (custodial) bitcoin váltónak együtt kell működnie. 
-A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget. 
+Ezzel a szabályozással minden fiat pénzt tároló (custodial) bitcoin váltónak együtt kell működnie.
+A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget.
 
 **Non-custodial exchange-k**:\
 Ezek  nem tárolnak pénzt számodra, tehát a (fiat) pénzt közvetlenül az eladónak kell eljuttatni, a privát kulcsok pedig végig a tulajdonodban maradnak. Automatikus letét (escrow) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
 
 A leginkább titkos és megbízható decentralizált váltó:
-https://bisq.network/ \
+<https://bisq.network/> \
 Érdemes regisztrálni, hozzáadni fizetési módokat, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
 
 Központi szerverrel rendelkező peer2peer exchange, ami szintén nem kötött személyes adatok megadásához:
-https://hodlhodl.com/
+<https://hodlhodl.com/>
 
 ---
 **Custodial exchange avagy kripto-bank**:
 
-Ha nem zavar szeméyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a https://www.coinbase.com/. \
- EUR, GBP, USD fiat pénzben működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében.
-Ugyanazzal a regisztrációval a https://pro.coinbase.com/ felülettel érdemes megismerkedni, mert ott díjmentes bitcoin vásárlásra van lehetőség. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
+Ha nem zavar szeméyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a <https://www.coinbase.com/.> \
+EUR, GBP, USD fiat pénzben működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében.
+Ugyanazzal a regisztrációval a <https://pro.coinbase.com/> felülettel érdemes megismerkedni, mert ott díjmentes bitcoin vásárlásra van lehetőség. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
 
 **A vásárlás menete (LIMIT BUY)**: \
-https://pro.coinbase.com/ bejelentkezés. \
+<https://pro.coinbase.com/> bejelentkezés. \
 Select Market: BTC - EUR >\
 DEPOSIT >\
 Select currency >\
