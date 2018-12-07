@@ -1,4 +1,4 @@
-###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] --  [ [Hol vásárolj?](vasarlas.md) ] -- [ **AntiFUD** ]
+###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] --  [ [Vásárlás](vasarlas.md) ] -- [ **AntiFUD** ]
 
 ### FUD (Fear, Uncertainty, and Doubt) - Félelem Bizonytalanság és Kétség
 

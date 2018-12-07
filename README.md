@@ -1,4 +1,4 @@
-###### [ **Bevezetés** ] -- [ [Bitcoin tárca](tarca.md) ] -- [ [Hol vásárolj?](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
+###### [ **Bevezetés** ] -- [ [Bitcoin tárca](tarca.md) ] -- [ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
 
 *Ez a dokumentum kezdőknek  való bevezetésre szolgál saját kutatás és tapasztalatok alapján. Folyamatos fejlesztés alatt. Javaslatokat és korrekciókat szívesen veszek.*
 

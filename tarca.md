@@ -1,4 +1,4 @@
-###### [ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Hol vásárolj?](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
+###### [ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
 
 ### Be your own bank
 

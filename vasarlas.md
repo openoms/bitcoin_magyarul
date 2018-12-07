@@ -1,4 +1,4 @@
-###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] -- [ **Hol vásárolj?** ] -- [[AntiFUD](antiFUD.md) ]
+###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] -- [ **Vásárlás** ] -- [[AntiFUD](antiFUD.md) ]
 
 Elérkeztünk odáig, hogy a kormány által kibocsátott (fiat) pénzünket szeretnénk igazi kemény bitcoinra váltani.
 
