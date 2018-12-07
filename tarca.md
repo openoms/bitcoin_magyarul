@@ -1,13 +1,13 @@
-[ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Hol vásárolj?](vasarlas.md) ]
+###### [ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Hol vásárolj?](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
 
-**Be your own bank.**
+### Be your own bank
 
 A bitcoin tárolása tárcákban (wallet) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot (private key), ami a coin elköltéséhez szükséges.
 Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből.
 
-A private key teljes hozzáférést ad a hozzá tartozó coinokhoz így különösen lényeges, h mennyire biztonságos a tárca-alkalmazás.
+A private key teljes hozzáférést ad a hozzá tartozó coinokhoz így különösen lényeges, hogy mennyire biztonságos a tárca-alkalmazás.
 
-Internetes tárca használatát, legyen az bármelyik exchange vagy a blockchain. info, nem ajánlhatom, mert ezek esetében nincs a használó birtokában a privát kulcs így nem mondható, h az ott tárolt bitcoin az övé lenne. Kriptovaluták estében egyelőre sehol sincs állami garancia arra, hogy hozzáférhessünk,ami számlánkon van így mindenkinek magának kell gondoskodni a biztonságáról.
+Internetes tárca használatát, legyen az bármelyik exchange vagy a blockchain. com , nem ajánlhatom, mert ezek esetében nincs a használó birtokában a privát kulcs így nem mondható, hogy az ott tárolt bitcoin az övé lenne. Kriptovaluták estében egyelőre sehol sincs állami garancia arra, hogy hozzáférhessünk,ami számlánkon van így mindenkinek magának kell gondoskodnia a biztonságáról.
 
 A legmegbízhatóbb általam jól ismert tárcák:
 
@@ -26,7 +26,7 @@ Desktop: \
 magyarok által fejlesztett, fantasztikus titkosítással:\
 <https://www.wasabiwallet.io/>
 
-Hardware wallet:\
+**Hardware wallet**:\
 Nagyobb öszegek privát kulcsinak tárolására alkalmas. \
 A **Trezor One** a legrégebbi és legbeváltabb fajta: <https://trezor.io/>
 

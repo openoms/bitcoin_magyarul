@@ -1,11 +1,9 @@
- [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] -- [ **Hol vásárolj?** ]
+###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] -- [ **Hol vásárolj?** ] -- [[AntiFUD](antiFUD.md) ]
 
 Elérkeztünk odáig, hogy a kormány által kibocsátott (fiat) pénzünket szeretnénk igazi kemény bitcoinra váltani.
 
 Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltáshoz és mozgatáshoz érdemes egy Revolut accountot és kártyát szerezni. Ingyenes és nemzetközi utazáshoz is hasznos.\
 <https://www.revolut.com>
-
----
 
 Pár fogalmat érdemes ismerni az exchange-ekkel kapcsolatban:
 
@@ -17,6 +15,7 @@ Ez a két rövidítés az USA-ból származó törvényi követelményekre utal,
 Ezzel a szabályozással minden fiat pénzt tároló (custodial) bitcoin váltónak együtt kell működnie.
 A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget.
 
+---
 **Non-custodial exchange-k**:\
 Ezek  nem tárolnak pénzt számodra, tehát a (fiat) pénzt közvetlenül az eladónak kell eljuttatni, a privát kulcsok pedig végig a tulajdonodban maradnak. Automatikus letét (escrow) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
 
@@ -52,8 +51,6 @@ utolsó ellenőrzés >\
  PLACE BUY ORDER.\
 Ha elég magas árat adtunk meg pillanatok latt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
 
----
-
 Ezután erősen ajánlott a vásárolt BTC-t kiküldeni a saját kontrollunk alatt álló tárcába:\
 WITHDRAW >\
 Select currency >\
@@ -63,4 +60,8 @@ Amount: Max vagy kevesebb>\
 WITHDRAW BTC>\
 ellenőrzés és a beállított jelszó és 2FA megadása
 
-Pár órába is telhet amíg a Coinbase elküldi tranzakciót, de akkor a tárcában azonnal megjelenek az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
+Pár órába is telhet amíg a Coinbase elküldi tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
+
+---
+
+HODL: <https://bitcointalk.org/index.php?topic=375643.0>
