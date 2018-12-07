@@ -7,8 +7,8 @@
 1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától.
 2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokol szabályait.
 3. **Kötött mennyiségű**: a protokol összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs senkinek a hatalmában ezt megváltoztatni.
-4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A bitcoin blockchain 2009 január 3-án indult és azóta termeli blokkjait átlagosan 10 percenként.
-5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot <https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all>
+4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
+5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: <https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all>\
 Több mint 9 ezer publikusan elérhető node validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: <https://bitnodes.earn.com/>
 6. **Skálázhatóság**: A rohamosan növekvő Lightning Network hamarosan egy teljes azonnali fizetőrendszerré fejlődik lehetővé téve pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A Bitcoin Blockchainre épülő Lightning Network új fejezet a Bitcoin rendszerében, itt is meg fog érni egy külön lapot a részletes magyarázata.
 
