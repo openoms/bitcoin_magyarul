@@ -1,9 +1,8 @@
-[ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Hol vásárolj?](vasarlas.md) ]
+[ Bevezetés ] -- [ Bitcoin tárca ] --[ Hol vásárolj? ]
 
-# Be your own bank. 
+Be your own bank.
 
-A bitcoin tárolása tárcákban (wallet) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot (private key), ami a coin elköltéséhez szükséges.
-Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből.
+A bitcoin tárolása tárcákban (wallet) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot (private key), ami a coin elköltéséhez szükséges. Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből.
 
 A private key teljes hozzáférést ad a hozzá tartozó coinokhoz így különösen lényeges, h mennyire biztonságos a tárca-alkalmazás.
 
@@ -11,23 +10,21 @@ Internetes tárca használatát, legyen az bármelyik exchange vagy a blockchain
 
 A legmegbízhatóbb általam jól ismert tárcák:
 
-Android: \
-**Samourai Wallet**
-<https://play.google.com/store/apps/details?id=com.samourai.wallet>
+Android:
+Samourai Wallet https://play.google.com/store/apps/details?id=com.samourai.wallet
 
-iOS: \
-**Green Address**
-<https://itunes.apple.com/app/id1206035886>
+iOS:
+Green Address https://itunes.apple.com/app/id1206035886
 
-Desktop: \
-**Bitcoin Core (Full node)**: <https://bitcoincore.org/en/download/> \
+Desktop:
+Bitcoin Core (Full node) : https://bitcoincore.org/en/download/ \
 
-**Wasabi wallet**:\
-magyarok által fejlesztett, fantasztikus titkosítással:\
-<https://www.wasabiwallet.io/>
+Wasabi wallet
+magyarok által fejlesztett, fantasztikus titkosítással
+https://www.wasabiwallet.io/
 
-Hardware wallet:\
-Nagyobb öszegek privát kulcsinak tárolására alkalmas. \
-A **Trezor One** a legrégebbi és legbeváltabb fajta: <https://trezor.io/>
+Hardware wallet:
+Nagyobb öszegek privát kulcsinak tárolására alkalmas.
+A Trezor One a legrégebbi és legbeváltabb fajta: https://trezor.io/
 
-Bármelyiket választod a legfontosabb, hogy a privát kulcsok seedjét képező **12-24 szót írd le** a tárca első indulásakor, mert a hardver (telefon, PC, hardware wallet) elvesztésekor csak a seeddel tudsz hozzáférni a coinjaidhoz.
+Bármelyiket választod a legfontosabb, hogy a privát kulcsok seedjét képező 12-24 szót írd le a tárca első indulásakor, mert a hardver (telefon, PC, hardware wallet) elvesztésekor csak a seeddel tudsz hozzáférni a coinjaidhoz.
