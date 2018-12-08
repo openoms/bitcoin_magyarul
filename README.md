@@ -25,6 +25,10 @@ Több mint 9 ezer publikusan elérhető számítógép (node) validálja és osz
 
 A Bitcoin WhitePaper fordítása: <https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/>
 
+Andreas M. Antonopoulos - 
+Mastering Bitcoin Open Edition magyar fordítása:
+<https://bitcoinbook.info/wp-content/translations/hu/book.pdf>
+
 Nem hivatalos oldal: \
 <https://bitcoin.org/hu/> (vigyázz a bitcoin. com csalás)
 
