@@ -1,6 +1,6 @@
 ###### [ **Bevezetés** ] -- [ [Bitcoin tárca](tarca.md) ] -- [ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
 
-*Ez a dokumentum kezdőknek  való bevezetésre szolgál saját kutatás és tapasztalatok alapján. Folyamatos fejlesztés alatt. Javaslatokat és korrekciókat szívesen veszek.*
+*Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapasztalatok alapján. Folyamatos fejlesztés alatt. Javaslatokat és korrekciókat szívesen veszek.*
 
 ### Miért Bitcoin?
 
@@ -9,7 +9,7 @@
 3. **Kötött mennyiségű**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs senkinek a hatalmában ezt megváltoztatni.
 4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
 5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: <https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all>\
-Több mint 9 ezer publikusan elérhető node validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: <https://bitnodes.earn.com/>
+Több mint 9 ezer publikusan elérhető számítógép (node) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: <https://bitnodes.earn.com/>
 6. **Skálázhatóság**: A rohamosan növekvő Lightning Network hamarosan egy teljes azonnali fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A Bitcoin Blockchainre épülő Lightning Network új fejezet a Bitcoin rendszerében, itt is meg fog érni egy külön lapot a részletes magyarázata. <https://1ml.com/statistics>
 
 ### Technikai összetevők
@@ -60,3 +60,7 @@ Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk
 Saifedean Ammous -
 The Bitcoin Standard: The Decentralized Alternative to Central Banking Hardcover
 <https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/>
+
+Ingyenesen elérhető könyv a központi bankok működéséről:
+Murray N. Rothbard - The Mystery of Banking
+<https://mises.org/library/mystery-banking>

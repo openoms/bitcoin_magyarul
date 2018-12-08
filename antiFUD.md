@@ -4,7 +4,7 @@
 
 _Ebben a fejezetben az éppen aktuális katasztrófa narrációkat szeretném feloldani._
 
-A 12 oldalú FUD dobókocka a bitcoin kritikusok vesszőparipáival:
+Nic Carter 12 oldalú FUD dobókockája a bitcoin kritikusok vesszőparipáival:
 ![FUD Dice](https://fuddice.shop/wp-content/uploads/2018/09/IMG_3945.jpg)
 
 A bányászat energiaigényéről:
