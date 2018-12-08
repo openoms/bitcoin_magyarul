@@ -23,8 +23,6 @@ Desktop: \
 **Electrum**:
 A legnépszerűbb tárca. Együttműködik a hardware walletekkel (Trezor, Ledger, Coldcard) és képes multi-signature címeket létrehozni.
 
-
-
 **Bitcoin Core (Full node)**: <https://bitcoincore.org/en/download/> \
 
 **Wasabi wallet**:\
