@@ -1,4 +1,4 @@
-###### [ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ]
+###### [ [Bevezetés](README.md) ]  -- [  **Bitcoin tárca** ] --[ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ] -- [ [Magyar Bitcoin projektek](magyarok.md) ] -- [ [Bitcoin programozás](programozas.md) ]
 
 ### Be your own bank - Légy a saját bankod
 
