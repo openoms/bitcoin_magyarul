@@ -23,13 +23,13 @@ A leginkább titkos és megbízható decentralizált váltó:
 <https://bisq.network/> \
 Érdemes regisztrálni, hozzáadni fizetési módokat, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
 
-Központi szerverrel rendelkező peer2peer exchange, ami szintén nem kötött személyes adatok megadásához:
+Központi szerverrel rendelkező peer-to-peer exchange, ami szintén nem kötött személyes adatok megadásához:
 <https://hodlhodl.com/>
 
 ---
 **Custodial exchange avagy kripto-bank**:
 
-Ha nem zavar szeméyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a <https://www.coinbase.com/.> \
+Ha nem zavar személyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a <https://www.coinbase.com/.> \
 EUR, GBP, USD fiat pénzben működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében.
 Ugyanazzal a regisztrációval a <https://pro.coinbase.com/> felülettel érdemes megismerkedni, mert ott díjmentes bitcoin vásárlásra van lehetőség. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
 
@@ -49,7 +49,7 @@ Amount: a beállított áron (vagy az alatt) vásárlandó BTC mennyisége. Max 
 Post Only >\
 utolsó ellenőrzés >\
  PLACE BUY ORDER.\
-Ha elég magas árat adtunk meg pillanatok latt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
+Ha elég magas árat adtunk meg pillanatok alatt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
 
 Ezután erősen ajánlott a vásárolt BTC-t kiküldeni a saját kontrollunk alatt álló tárcába:\
 WITHDRAW >\
@@ -60,8 +60,9 @@ Amount: Max vagy kevesebb>\
 WITHDRAW BTC>\
 ellenőrzés és a beállított jelszó és 2FA megadása
 
-Pár órába is telhet amíg a Coinbase elküldi tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
+Pár órába is telhet amíg a Coinbase elküldi a tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
 
 ---
 
-HODL: <https://bitcointalk.org/index.php?topic=375643.0>
+HODL:
+híres mém ami arra utal, hogy az "egyszerű" ember nem tudja jól időzíteni a vételt és eladást így a legjobban úgy jár, ha nem is próbálkozik a kereskedéssel, hanem csak tárolja a bitcoint (holdból részegen elírva lett HODL)  <https://bitcointalk.org/index.php?topic=375643.0>

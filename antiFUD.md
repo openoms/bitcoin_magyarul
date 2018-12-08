@@ -14,4 +14,4 @@ Bitcoin 'halál spirál': <https://twitter.com/nic__carter/status/10697417642427
 
 Szkeptikusok idézetei: <https://nakamotoinstitute.org/the-skeptics/>
 
-A Bitcoint végleg temető cikkek gyűjteménye: <https://99bitcoins.com/bitcoinobituaries/>
+A Bitcoint végleg temető cikkek gyűjteménye (329+ hivatkozás): <https://99bitcoins.com/bitcoinobituaries/>
