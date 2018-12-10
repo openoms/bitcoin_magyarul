@@ -7,7 +7,7 @@ Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockc
 
 A privát kulcs teljes hozzáférést ad a hozzá tartozó coinokhoz így különösen lényeges, hogy mennyire biztonságos a tárca-alkalmazás.
 
-Internetes tárca használatát, legyen az bármelyik exchange vagy a blockchain. com , nem ajánlhatom, mert ezek esetében nincs a használó birtokában a privát kulcs így nem mondható, hogy az ott tárolt bitcoin az övé lenne. Kriptovaluták esetében egyelőre sehol sincs állami garancia arra, hogy hozzáférhessünk,ami számlánkon van így mindenkinek magának kell gondoskodnia a biztonságáról.
+Internetes tárca használatát - legyen az bármelyik exchange vagy a blockchain.<i></i>com - nem ajánlhatom, mert ezek esetében nincs a használó birtokában a privát kulcs így nem mondható, hogy az ott tárolt bitcoin az övé lenne. Kriptovaluták esetében egyelőre sehol sincs állami garancia arra, hogy hozzáférhessünk, ami számlánkon van így mindenkinek magának kell gondoskodnia a biztonságáról.
 
 A legmegbízhatóbb általam jól ismert tárcák:
 

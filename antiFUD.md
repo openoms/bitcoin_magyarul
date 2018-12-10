@@ -9,8 +9,10 @@ Nic Carter 12 oldalú FUD dobókockája a bitcoin kritikusok vesszőparipáival:
 ![FUD Dice](https://fuddice.shop/wp-content/uploads/2018/09/IMG_3945.jpg)
 
 A bányászat energia-igényéről:  
-<https://blog.picks.co/pow-is-efficient-aa3d442754d3>
+<https://medium.com/coinshares/beware-of-lazy-research-c828c900b7d>  
+<https://blog.picks.co/pow-is-efficient-aa3d442754d3>  
 https://twitter.com/vxschmid/status/1070365288175157251
+
 
 Bitcoin 'halál spirál': <https://twitter.com/nic__carter/status/1069741764242755584>
 

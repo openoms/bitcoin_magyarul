@@ -5,12 +5,12 @@
 ### Miért Bitcoin?
 
 1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától.
-2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokoll szabályait.
-3. **Kötött mennyiségű**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs senkinek a hatalmában ezt megváltoztatni.
+2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokoll szabályait. Egy teljesen nyitott rendszer, nincs szükség API kulcsra vagy bármilyen engedélyre ahhoz, hogy bárki bitcoin címet generálhasson vagy tranzakciót küldhessen.
+3. **Kötött mennyiségű**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná.
 4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
 5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: <https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all>\
 Több mint 9 ezer publikusan elérhető számítógép (node) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: <https://bitnodes.earn.com/>
-6. **Skálázhatóság**: A rohamosan növekvő Lightning Network hamarosan egy teljes azonnali fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A Bitcoin Blockchainre épülő Lightning Network új fejezet a Bitcoin rendszerében, itt is meg fog érni egy külön lapot a részletes magyarázata. <https://1ml.com/statistics>
+6. **Skálázhatóság**: A rohamosan növekvő Lightning Network hamarosan egy teljes azonnali fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A Bitcoin Blockchainre épülő Lightning Network új réteg a Bitcoin rendszerében, itt is meg fog érni egy külön lapot a részletes magyarázata. <https://1ml.com/statistics>
 
 ### Technikai összetevők
 
@@ -30,7 +30,7 @@ Mastering Bitcoin Open Edition magyar fordítása:
 <https://bitcoinbook.info/wp-content/translations/hu/book.pdf>
 
 Nem hivatalos oldal: \
-<https://bitcoin.org/hu/> (vigyázz a bitcoin. com csalás)
+<https://bitcoin.org/hu/> (vigyázz a bitcoin<i></i>.com csalás)
 
 ---
 
@@ -45,10 +45,18 @@ A Bitcoin WhitePaper (2008 október 31.):
 Elmélet a befektetés és használat mikéntjéről:
 <https://github.com/PierreRochard/bitcoin-investment-theses>
 
-Egy mindent átfogó gyűjtemény: <https://lopp.net/bitcoin.html>
+Egy mindent átfogó gyűjtemény:  
+<https://lopp.net/bitcoin.html>
 
-Történeti esszé zenével:
+Történeti esszé zenével:  
 <https://medium.com/@danhedl/planting-bitcoin-56bd1459cb23>
+
+Nick Szabo blogja:  
+https://unenumerated.blogspot.com/
+
+The Princeton Bitcoin kurzus és könyv:
+<http://bitcoinbook.cs.princeton.edu/>
+<https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf>
 
 Kövesd az élő beszélgetést a (Crypto)Twitteren: <https://twitter.com/openoms>
 
