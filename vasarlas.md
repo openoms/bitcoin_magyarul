@@ -68,7 +68,7 @@ HODL:
 híres mém ami arra utal, hogy az "egyszerű" ember nem tudja jól időzíteni a vételt és eladást így a legjobban úgy jár, ha nem is próbálkozik a kereskedéssel, hanem csak tárolja a bitcoint (holdból részegen elírva lett HODL)  <https://bitcointalk.org/index.php?topic=375643.0>
 
 Egy jól sikerült fotóbomba az amerikai központi bank (Federal Reserve) elnöknőjének meghallgatásán (2017. júlis 12.):
- ![](BitcoinSignGuy.PNG)
+ ![](images/BitcoinSignGuy.PNG)
 
 Párizs, december 1:
 ![](images/YellowVestBuyBitcoin.PNG)
