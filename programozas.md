@@ -10,4 +10,10 @@ Mastering Bitcoin Open Edition magyar fordítása:
 
 <https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09>
 
+Kurzusok:
+
 <https://buidlbootcamp.com/>
+
+<https://programmingwithbitcoin.com/>
+
+<https://programmingblockchain.com/>

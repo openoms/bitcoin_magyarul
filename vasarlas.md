@@ -70,5 +70,5 @@ híres mém ami arra utal, hogy az "egyszerű" ember nem tudja jól időzíteni 
 Egy jól sikerült fotóbomba az amerikai központi bank (Federal Reserve) elnöknőjének meghallgatásán (2017. júlis 12.):  
 ![](images/BitcoinSignGuy.PNG)
 
-Párizs, december 1:  
+Párizs, 2018. december 1:  
 ![](images/YellowVestBuyBitcoin.PNG)
