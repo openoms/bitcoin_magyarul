@@ -24,26 +24,27 @@ Több mint 9 ezer publikusan elérhető számítógép (node) validálja és osz
 
 ### Továbbiak magyarul
 
-A Bitcoin WhitePaper fordítása: <https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/>
+A Bitcoin WhitePaper fordítása:  
+<https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/>
 
 Andreas M. Antonopoulos - 
-Mastering Bitcoin Open Edition magyar fordítása:
+Mastering Bitcoin Open Edition magyar fordítása:  
 <https://bitcoinbook.info/wp-content/translations/hu/book.pdf>
 
-Nem hivatalos oldal: \
+Nem hivatalos oldal:  
 <https://bitcoin.org/hu/> (vigyázz a bitcoin<i></i>.com csalás)
 
 ---
 
 ### Angolul
 
-Cypherpunk Manifesto (1993 március 9.):
+Cypherpunk Manifesto (1993 március 9.):  
 <https://nakamotoinstitute.org/cypherpunk-manifesto/>
 
-A Bitcoin WhitePaper (2008 október 31.):
+A Bitcoin WhitePaper (2008 október 31.):  
 <https://nakamotoinstitute.org/bitcoin/>
 
-Elmélet a befektetés és használat mikéntjéről:
+Elmélet a befektetés és használat mikéntjéről:  
 <https://github.com/PierreRochard/bitcoin-investment-theses>
 
 Egy mindent átfogó gyűjtemény:  
@@ -55,11 +56,12 @@ Történeti esszé zenével:
 Nick Szabo blogja:  
 https://unenumerated.blogspot.com/
 
-The Princeton Bitcoin kurzus és könyv:
+The Princeton Bitcoin kurzus és könyv:  
 <http://bitcoinbook.cs.princeton.edu/>
 <https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf>
 
-Kövesd az élő beszélgetést a (Crypto)Twitteren: <https://twitter.com/openoms>
+Kövesd az élő beszélgetést a (Crypto)Twitteren:  
+<https://twitter.com/openoms>
 
 ---
 
@@ -67,15 +69,15 @@ Kövesd az élő beszélgetést a (Crypto)Twitteren: <https://twitter.com/openom
 
 Könyvajánlat:
 
-Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk
+Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk  
 <https://libertarianizmus.hu/rothbard-valsagok/>
 
 Saifedean Ammous -
-The Bitcoin Standard: The Decentralized Alternative to Central Banking
+The Bitcoin Standard: The Decentralized Alternative to Central Banking  
 <https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/>  
 Kalózverziók ebben a feedben:  
 <https://twitter.com/saifedean/status/1067030051596718081>
 
 Ingyenesen elérhető könyv a központi bankok működéséről:
-Murray N. Rothbard - The Mystery of Banking
+Murray N. Rothbard - The Mystery of Banking  
 <https://mises.org/library/mystery-banking>
