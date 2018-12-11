@@ -3,7 +3,7 @@
 ### Bitcoin programozás
 
 Andreas M. Antonopoulos - 
-Mastering Bitcoin Open Edition magyar fordítása:
+Mastering Bitcoin Open Edition magyar fordítása:  
 <https://bitcoinbook.info/wp-content/translations/hu/book.pdf>
 
 <https://www.codecademy.com/learn/introduction-to-blockchain>

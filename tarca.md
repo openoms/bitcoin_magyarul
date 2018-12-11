@@ -26,12 +26,11 @@ iOS: \
 Desktop (Linux/Mac/Windows):
 
 **Electrum**:  
-
-A legnépszerűbb tárca. Együttműködik a hardware walletekkel (Trezor, Ledger, Coldcard) és képes multi-signature címeket létrehozni.
+A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel (Trezor, Ledger, Coldcard) és képes multi-signature címeket létrehozni.
 <https://electrum.org/#download>
 
 **Bitcoin Core (Full node)**:  
- <https://bitcoincore.org/en/download/> \
+ <https://bitcoincore.org/en/download/>
 
 **Wasabi wallet**:\
 magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történetét maszkolja el a blockchainen :\
@@ -39,8 +38,10 @@ magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történeté
 
 ---
 
-**Hardware wallet**:\
+**Hardver tárca (hardware wallet)**:\
 Nagyobb öszegek privát kulcsainak tárolására alkalmas. \
 A **Trezor One** a legrégebbi és legbeváltabb fajta: <https://trezor.io/>
 
-Bármelyiket választod a legfontosabb, hogy a privát kulcsok seedjét képező **12-24 szót írd le** a tárca első indulásakor, mert a hardver (telefon, PC, hardware wallet) elvesztésekor csak a seeddel tudsz hozzáférni a coinjaidhoz. Lásd a [Privát kulcs kezelés](private_key_management.md) fejezetet.
+---
+
+Bármelyiket választod a legfontosabb, hogy a privát kulcsok seedjét képező **12-24 szót írd le** a tárca első indulásakor, mert a hardver (telefon, PC, Hardver tárca) elvesztésekor csak a seeddel tudsz hozzáférni a coinjaidhoz. Lásd a [Privát kulcs kezelés](private_key_management.md) fejezetet.
