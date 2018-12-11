@@ -71,8 +71,10 @@ Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk
 <https://libertarianizmus.hu/rothbard-valsagok/>
 
 Saifedean Ammous -
-The Bitcoin Standard: The Decentralized Alternative to Central Banking Hardcover
-<https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/>
+The Bitcoin Standard: The Decentralized Alternative to Central Banking
+<https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/>  
+Kalózverziók ebben a feedben:  
+<https://twitter.com/saifedean/status/1067030051596718081>
 
 Ingyenesen elérhető könyv a központi bankok működéséről:
 Murray N. Rothbard - The Mystery of Banking
