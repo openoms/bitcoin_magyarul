@@ -35,29 +35,30 @@ Ugyanazzal a regisztrációval a <https://pro.coinbase.com/> felülettel érdeme
 
 **A vásárlás menete (LIMIT BUY)**: \
 <https://pro.coinbase.com/> bejelentkezés. \
-Select Market: BTC - EUR >\
-DEPOSIT >\
-Select currency >\
-Euro\
-Az itt megjelent IBANra lehet utalni. Fontos a megadott közleményt feltüntetni! 2-5 napba telik amíg megérkezik az összeg és az EUR pontban látható is lesz. >\
+`Select Market:` `BTC - EUR` >\
+`DEPOSIT` >\
+`Select currency` >\
+`Euro`\
+Az itt megjelent IBAN szamlaszámra lehet utalni. **Fontos a megadott közleményt feltüntetni!** 2-5 napba telik amíg megérkezik az összeg és az `EUR` mezőben látható lesz.  
+
 Ezután fentről lefelé:\
-BUY opció >\
-LIMIT > \
-Limit Price: a felül olvasható Last Trade price beírása egy jó választás >\
-Amount: a beállított áron (vagy az alatt) vásárlandó BTC mennyisége. Max vagy kevesebb.
+`BUY` opció >\
+`LIMIT` > \
+`Limit Price`: a felül olvasható `Last Trade price` beírása egy jó választás >\
+`Amount`: a beállított áron (vagy az alatt) vásárlandó BTC mennyisége. `Max` vagy kevesebb.
 \>\
-Post Only >\
-utolsó ellenőrzés >\
- PLACE BUY ORDER.\
-Ha elég magas árat adtunk meg pillanatok alatt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
+`Post Only` >\
+**utolsó ellenőrzés** >\
+`PLACE BUY ORDER`.\
+Ha elég magas árat adtunk meg pillanatok alatt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem így lenne, érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
 
 Ezután erősen ajánlott a vásárolt BTC-t kiküldeni a saját kontrollunk alatt álló tárcába:\
-WITHDRAW >\
-Select currency >\
-Bitcoin >\
-Destination: a bitcoin walletünk által adott receive address>\
-Amount: Max vagy kevesebb>\
-WITHDRAW BTC>\
+`WITHDRAW` >\
+`Select currency` >\
+`Bitcoin` >\
+`Destination`: a bitcoin walletünk által adott receive address>\
+`Amount`: `Max`vagy kevesebb>\
+`WITHDRAW BTC` >\
 ellenőrzés és a beállított jelszó és 2FA megadása
 
 Pár órába is telhet amíg a Coinbase elküldi a tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
