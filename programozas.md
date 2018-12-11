@@ -1,4 +1,4 @@
-###### [ [Bevezetés](README.md) ]  -- [ [Bitcoin tárca](tarca.md) ] -- [ [Vásárlás](vasarlas.md) ] -- [[AntiFUD](antiFUD.md) ] -- [ [Magyar Bitcoin projektek](magyarok.md) ] -- [ **Bitcoin programozás** ]
+###### [ [Bevezetés](README.md) ]  -- [ [Bitcoin tárca](tarca.md) ] -- [ [Vásárlás](vasarlas.md) ] -- [ [Privát kulcs kezelés](private_key_management.md) ] -- [[AntiFUD](antiFUD.md) ] -- [ [Magyar Bitcoin projektek](magyarok.md) ] -- [ **Bitcoin programozás** ]
 
 ### Bitcoin programozás
 
