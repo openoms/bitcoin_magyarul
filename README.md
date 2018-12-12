@@ -83,3 +83,6 @@ Kalózverziók ebben a feedben:
 Ingyenesen elérhető könyv a központi bankok működéséről:
 Murray N. Rothbard - The Mystery of Banking  
 <https://mises.org/library/mystery-banking>
+
+
+
