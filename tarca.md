@@ -14,17 +14,17 @@ Internetes tárca használatát - legyen az bármelyik exchange vagy a blockchai
 
 A legmegbízhatóbb általam jól ismert tárcák:
 
-Android: \
-**Samourai Wallet**
+### Android
+**Samourai Wallet**:
 <https://play.google.com/store/apps/details?id=com.samourai.wallet>
 
-iOS: \
-**Green Address**
+### iOS
+**Green Address**:
 <https://itunes.apple.com/app/id1206035886>
 
 ---
 
-Desktop (Linux/Mac/Windows):
+### Desktop (Linux/Mac/Windows):
 
 **Electrum**:  
 A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel (Trezor, Ledger, Coldcard) és képes multi-signature címeket létrehozni.
@@ -33,13 +33,13 @@ A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel (Trezo
 **Bitcoin Core (Full node)**:  
  <https://bitcoincore.org/en/download/>
 
-**Wasabi wallet**:\
+**Wasabi wallet**:  
 magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történetét maszkolja el a blockchainen :\
 <https://www.wasabiwallet.io/>
 
 ---
 
-**Hardver tárca (hardware wallet)**:\
+### Hardver tárca (hardware wallet):
 Nagyobb öszegek privát kulcsainak tárolására alkalmas. \
 A **Trezor One** a legrégebbi és legbeváltabb fajta: <https://trezor.io/>
 
