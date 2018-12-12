@@ -1,5 +1,5 @@
-###### [ [Bevezetés](README.md) ] -- [ [Bitcoin tárca](tarca.md) ] --  [ [Vásárlás](vasarlas.md) ] -- [ [Privát kulcs kezelés](private_key_management.md) ] -- [ **AntiFUD** ] -- [ [Magyar Bitcoin projektek](magyarok.md) ] -- [ [Bitcoin programozás](programozas.md) ]
-
+###### AntiFUD
+[[Bevezetés](README.md)] - [[Bitcoin tárca](tarca.md)] - [[Vásárlás](vasarlas.md)] - [[Privát kulcs kezelés](private_key_management.md)] - [[AntiFUD](antiFUD.md)] - [[Magyar Bitcoin projektek](magyarok.md)] - [[Bitcoin programozás](programozas.md)]
 
 ### FUD (Fear, Uncertainty, and Doubt) - Félelem Bizonytalanság és Kétség
 

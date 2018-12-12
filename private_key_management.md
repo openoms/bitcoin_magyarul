@@ -1,4 +1,5 @@
-###### [ [Bevezetés](README.md) ] --[ [Vásárlás](vasarlas.md) ] -- [ **Privát kulcs kezelés** ] -- [[ AntiFUD](antiFUD.md) ] -- [ [Magyar Bitcoin projektek](magyarok.md) ] -- [ [Bitcoin programozás](programozas.md) ]
+###### Bitcoin programozás
+[[Bevezetés](README.md)] - [[Bitcoin tárca](tarca.md)] - [[Vásárlás](vasarlas.md)] - [[Bitcoin programozás](private_key_management.md)] - [[AntiFUD](antiFUD.md)] - [[Magyar Bitcoin projektek](magyarok.md)] - [[Bitcoin programozás](programozas.md)]
 
 
  ### ["Ha birtoklod a privát kulcsot akkor az a te bitcoinod, ha nem birtoklod, nem a te bitcoinod." (Andreas Antonopoulos videó)](https://www.youtube.com/watch?v=vt-zXEsJ61U)
