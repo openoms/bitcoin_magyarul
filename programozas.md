@@ -6,9 +6,14 @@ Andreas M. Antonopoulos -
 Mastering Bitcoin Open Edition magyar fordítása:  
 <https://bitcoinbook.info/wp-content/translations/hu/book.pdf>
 
+Egy rövid blockchain és Proof-of-Work rendszer írása Pythonban:
 <https://www.codecademy.com/learn/introduction-to-blockchain>
 
+Források teljesen kezdőknek:
 <https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09>
+
+Programming the Blockchain in C# - Community Edition
+<https://programmingblockchain.gitbook.io/programmingblockchain>
 
 Kurzusok:
 
@@ -16,4 +21,7 @@ Kurzusok:
 
 <https://programmingwithbitcoin.com/>
 
-<https://programmingblockchain.com/>
+Jimmy Song kurzusa:  
+<https://programmingblockchain.com/>  
+és a könyv, amire épül:  
+<https://github.com/jimmysong/programmingbitcoin>
