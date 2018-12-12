@@ -16,7 +16,7 @@ Források teljesen kezdőknek:
 Programming the Blockchain in C# - Community Edition
 <https://programmingblockchain.gitbook.io/programmingblockchain>
 
-### Kurzusok:
+### Kurzusok
 
 <https://buidlbootcamp.com/>
 
