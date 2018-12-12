@@ -16,7 +16,7 @@ A 24 szót 2/3 - 2/3 - 2/3 arányban elosztva feloszthatjuk 3 papír- vagy féml
 
 Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a seed 2/3-ának birtokában elvileg már lehetséges a maradék 1 harmad próbálgatással való megtalálása. Ehhez persze egy nagyteljesítményű számítógép \(pl. egy GPU rig\) és jelentős szaktudás szükséges. Ennek esélyét és az így tárolt maximális összeget mindenkinek magának kell fontolóra vennie. A módszer leírása angolul: [https://github.com/JWWeatherman/how\_to\_store\_bitcoin](https://github.com/JWWeatherman/how_to_store_bitcoin)
 
-Nagyobb érték tárolására kifejlesztett maximálisan paranoid módszer angolul:  
+Nagy érték tárolására kifejlesztett maximálisan paranoid módszer angolul:  
 [https://glacierprotocol.org/](https://glacierprotocol.org/)
 
 Privát kulcsok tárolásának biztosítására szakosodott cég:  

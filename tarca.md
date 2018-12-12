@@ -20,18 +20,18 @@ A legmegbízhatóbb általam jól ismert tárcák:
 
 **Green Address**: [https://itunes.apple.com/app/id1206035886](https://itunes.apple.com/app/id1206035886)
 
-## Desktop \(Linux/Mac/Windows\):
+## Desktop \(Linux/Mac/Windows\)
 
 **Electrum**:  
 A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel \(Trezor, Ledger, Coldcard\) és képes multi-signature címeket létrehozni. [https://electrum.org/\#download](https://electrum.org/#download)
 
-**Bitcoin Core \(Full node\)**:  
+**Bitcoin Core \(Full node\)**  
 [https://bitcoincore.org/en/download/](https://bitcoincore.org/en/download/)
 
-**Wasabi wallet**:  
+**Wasabi wallet**  
 magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történetét maszkolja el a blockchainen : [https://www.wasabiwallet.io/](https://www.wasabiwallet.io/)
 
-## Hardver tárca \(hardware wallet\):
+## Hardver tárca \(hardware wallet\)
 
 Nagyobb öszegek privát kulcsainak tárolására alkalmas.  A **Trezor One** a legrégebbi és legbeváltabb fajta: [https://trezor.io/](https://trezor.io/)
 
