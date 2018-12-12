@@ -1,14 +1,14 @@
-###### Magyar Bitcoin projektek
-[[Bevezetés](README.md)] - [[Bitcoin tárca](tarca.md)] - [[Vásárlás](vasarlas.md)] - [[Privát kulcs kezelés](private_key_management.md)] - [[AntiFUD](antiFUD.md)] - [[Magyar Bitcoin projektek](magyarok.md)] - [[Bitcoin programozás](programozas.md)]
+# Magyar Bitcoin projektek
 
-### Magyar vonatkozású cégek és projektek
+\[[Bevezetés](./)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
 
-<https://zksnacks.com/>
-<https://wasabiwallet.io/>
+## Magyar vonatkozású cégek és projektek
 
-<http://www.shinrai.co/>
-<https://www.facebook.com/shinrai.co/>
+[https://zksnacks.com/](https://zksnacks.com/) [https://wasabiwallet.io/](https://wasabiwallet.io/)
 
-<http://www.drpd.hu/hu/>
+[http://www.shinrai.co/](http://www.shinrai.co/) [https://www.facebook.com/shinrai.co/](https://www.facebook.com/shinrai.co/)
 
-<https://blockchainbudapest.hu/>
+[http://www.drpd.hu/hu/](http://www.drpd.hu/hu/)
+
+[https://blockchainbudapest.hu/](https://blockchainbudapest.hu/)
+
