@@ -1,6 +1,6 @@
 # Privát kulcs kezelés
 
-\[[Bevezetés](README.md)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
+\[[Bevezetés](./)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
 
 ## ["Ha birtoklod a privát kulcsot akkor az a te bitcoinod, ha nem birtoklod, nem a te bitcoinod." \(Andreas Antonopoulos videó\)](https://www.youtube.com/watch?v=vt-zXEsJ61U)
 

@@ -1,6 +1,6 @@
 # Bitcoin tárca
 
-\[[Bevezetés](README.md)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
+\[[Bevezetés](./)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
 
 ## Be your own bank - Légy a saját bankod
 
@@ -33,7 +33,7 @@ magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történeté
 
 ## Hardver tárca \(hardware wallet\)
 
-Nagyobb öszegek privát kulcsainak tárolására alkalmas.  A **Trezor One** a legrégebbi és legbeváltabb fajta: [https://trezor.io/](https://trezor.io/)
+Nagyobb öszegek privát kulcsainak tárolására alkalmas. A **Trezor One** a legrégebbi és legbeváltabb fajta: [https://trezor.io/](https://trezor.io/)
 
 Bármelyiket választod a legfontosabb, hogy a privát kulcsok seedjét képező **12-24 szót írd le** a tárca első indulásakor, mert a hardver \(telefon, PC, Hardver tárca\) elvesztésekor csak a seeddel tudsz hozzáférni a coinjaidhoz. Lásd a [Privát kulcs kezelés](private_key_management.md) fejezetet.
 
