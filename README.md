@@ -10,14 +10,14 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
 1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától.
 2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokoll szabályait. Egy teljesen nyitott rendszer, nincs szükség API kulcsra vagy bármilyen engedélyre ahhoz, hogy bárki bitcoin címet generálhasson vagy tranzakciót küldhessen.
-3. **Kötött mennyiségű**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná.
+3. **Kötött mennyiség**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná.
 4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
 5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: [https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all](https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all)\
-
-   Több mint 9 ezer publikusan elérhető számítógép \(node\) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: [https://bitnodes.earn.com/](https://bitnodes.earn.com/)
-
-6. **Oszthatóság**: A legkisebb egység 1 satoshi ami 0,00000001 bitcoin azaz 10 a -9-en BTC. 100millió satoshi = 1 bitcoin. Amikor 1 bitcoin 1 millió forintba kerül \(kb. 3600 USD\) 1 satoshi 1 fillért ér.
-7. **Skálázhatóság és azonnali mikrotranzakciók**: A rohamosan növekvő Lightning Network hamarosan egy teljes fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A fizetési csatornákon történő tranzakciók nem kell, hogy a blockchainbe kerüljenek így azonnali megállapodást segítenek a felek között minimális díjért. Minden újabb csatorna növeli a küldhető összeg határát és az hálózat áteresztő-képességét. [https://1ml.com/statistics](https://1ml.com/statistics)
+5 perces szemléltető videó, hogy mit is jelent ennyi műveletet végezni másodpercenként:  
+[https://www.youtube.com/watch?v=S9JGmA5_unY](https://www.youtube.com/watch?v=S9JGmA5_unY)
+6. **Decentralizált - elosztott hálózat**: Több mint 9 ezer publikusan elérhető számítógép \(node\) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: [https://bitnodes.earn.com/](https://bitnodes.earn.com/)
+7. **Oszthatóság**: A legkisebb egység 1 satoshi ami 0,00000001 bitcoin azaz 10 a -9-en BTC. 100millió satoshi = 1 bitcoin. Amikor 1 bitcoin 1 millió forintba kerül \(kb. 3600 USD\) 1 satoshi 1 fillért ér.
+8. **Skálázhatóság és azonnali mikrotranzakciók**: A rohamosan növekvő Lightning Network hamarosan egy teljes fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A fizetési csatornákon történő tranzakciók nem kell, hogy a blockchainbe kerüljenek így azonnali megállapodást segítenek a felek között minimális díjért. Minden újabb csatorna növeli a küldhető összeg határát és az hálózat áteresztő-képességét. [https://1ml.com/statistics](https://1ml.com/statistics)
 
 ## Technikai összetevők
 
@@ -63,7 +63,7 @@ The Princeton Bitcoin kurzus és könyv:
 Kövesd az élő beszélgetést a \(Crypto\)Twitteren:  
 [https://twitter.com/openoms](https://twitter.com/openoms)
 
-## Az Osztrák gazdasági iskola alapjai
+## Az osztrák közgazdaságtani iskola alapjai
 
 Könyvajánlat:
 
