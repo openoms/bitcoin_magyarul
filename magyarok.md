@@ -10,5 +10,5 @@
 
 [http://www.drpd.hu/hu/](http://www.drpd.hu/hu/)
 
-[https://blockchainbudapest.hu/](https://blockchainbudapest.hu/)
+[https://blockchainbudapest.hu/](https://blockchainbudapest.hu/) 
 
