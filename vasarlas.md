@@ -57,6 +57,8 @@ ellenőrzés és a beállított jelszó és 2FA megadása
 
 Pár órába is telhet amíg a Coinbase elküldi a tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
 
+## 
+
 HODL: híres mém ami arra utal, hogy az "egyszerű" ember nem tudja jól időzíteni a vételt és eladást így a legjobban úgy jár, ha nem is próbálkozik a kereskedéssel, hanem csak tárolja a bitcoint \(holdból részegen elírva lett HODL\) [https://bitcointalk.org/index.php?topic=375643.0](https://bitcointalk.org/index.php?topic=375643.0)
 
 Egy jól sikerült fotóbomba az amerikai központi bank \(Federal Reserve\) elnöknőjének meghallgatásán \(2017. július 12.\):  
