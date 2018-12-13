@@ -27,9 +27,9 @@ Központi szerverrel rendelkező peer-to-peer exchange, ami szintén nem kötöt
 
 Ha nem zavar személyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a [https://www.coinbase.com/.](https://www.coinbase.com/.) EUR, GBP, USD fiat pénzben működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében. Ugyanazzal a regisztrációval a [https://pro.coinbase.com/](https://pro.coinbase.com/) felülettel érdemes megismerkedni, mert ott díjmentes bitcoin vásárlásra van lehetőség. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
 
-## A vásárlás menete \(LIMIT BUY\):
+## A vásárlás menete \(LIMIT BUY\)
 
-[https://pro.coinbase.com/](https://pro.coinbase.com/) bejelentkezés.  
+[https://pro.coinbase.com/](https://pro.coinbase.com/) regisztráció és bejelentkezés.  
 `Select Market:` `BTC - EUR` &gt;  
 `DEPOSIT` &gt;  
 `Select currency` &gt;  
