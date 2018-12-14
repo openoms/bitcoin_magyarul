@@ -12,7 +12,7 @@
 
 [https://blockchainbudapest.hu/](https://blockchainbudapest.hu/) 
 
-Nick Szabo cypherpunk, kriptográfus és jogász. Az \`50-es években USA-ba vándorolt magyar szülők gyermeke. Nevéhez fűződik többek között a Bitcoin egyik alapjának tekinthető Bit Gold \(2005 december 29.\): [https://nakamotoinstitute.org/bit-gold/](https://nakamotoinstitute.org/bit-gold/) Angol nyelvű blogja: [https://unenumerated.blogspot.com/](https://unenumerated.blogspot.com/)
+Nick Szabo cypherpunk, kriptográfus és jogász. Az \`50-es években USA-ba vándorolt magyar szülők gyermeke. Nevéhez fűződik többek között a Bitcoin egyik alapjának tekinthető Bit Gold \(2005 december 29.\): [https://nakamotoinstitute.org/bit-gold/](https://nakamotoinstitute.org/bit-gold/) Angol nyelvű blogja: [https://unenumerated.blogspot.com/](https://unenumerated.blogspot.com/) Twitteren: [https://twitter.com/NickSzabo4](https://twitter.com/NickSzabo4)
 
 Laszlo Hanyec  híres szereplője a Bitcoin világnak, ő vitte véghez az első fizikai termék vásárlást bitcoinnal 2010 május 22-én, 10000 bitcoinba került egy pizza\): [https://bitcointalk.org/index.php?topic=137.0](https://bitcointalk.org/index.php?topic=137.0) A legtöbben csak Bitcoin Pizza Guy-ként ismerik.
 
