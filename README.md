@@ -20,7 +20,7 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
 6. **Decentralizált - elosztott hálózat**: Több mint 9 ezer publikusan elérhető számítógép \(node\) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: [https://bitnodes.earn.com/](https://bitnodes.earn.com/)
 7. **Oszthatóság**: A legkisebb egység 1 satoshi ami 0,00000001 bitcoin azaz 10 a -9-en BTC. 100millió satoshi = 1 bitcoin. Amikor 1 bitcoin 1 millió forintba kerül \(kb. 3600 USD\) 1 satoshi 1 fillért ér.
-8. **Skálázhatóság és azonnali mikrotranzakciók**: A rohamosan növekvő Lightning Network hamarosan egy teljes fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A fizetési csatornákon történő tranzakciók nem kell, hogy a blockchainbe kerüljenek így azonnali megállapodást segítenek a felek között minimális díjért. Minden újabb csatorna növeli a küldhető összeg határát és az hálózat áteresztő-képességét. [https://1ml.com/statistics](https://1ml.com/statistics)
+8. **Skálázhatóság és azonnali mikrotranzakciók**: A rohamosan növekvő Lightning Network hamarosan egy teljes fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A fizetési csatornákon történő tranzakciók nem kell, hogy a blockchainbe kerüljenek így azonnali megállapodást segítenek a felek között minimális díjért. Minden újabb csatorna növeli a küldhető összeg határát és az hálózat áteresztő-képességét. [https://bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
 
 ## Technikai összetevők
 
