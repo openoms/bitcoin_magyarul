@@ -16,7 +16,7 @@ A 24 szót 2/3 - 2/3 - 2/3 arányban felosztva (az ábrán látható módon) ír
 ![](https://user-images.githubusercontent.com/32912678/42778987-f2c65fee-890c-11e8-82f6-3aeab7304f14.png)  
 
 12 szó esetében:  
-![](.gitbook\assets\12words.PNG)  
+![](.gitbook/assets/12words.PNG)  
 
 Így egy lap nem lesz elegendő a tárca visszállításához, de bármelyik kettőből menni fog. A lapokat a fentebb leírt módon egy egyedi matricával leragasztott borítékban tároljuk 3 földrajzilag elkülönülő helyen.
 
