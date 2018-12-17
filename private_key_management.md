@@ -12,8 +12,12 @@ Papírlap helyett használhatunk fémlapot, amibe beleütve, vagy gravírozva a 
 
 # A privát kulcs (seed) biztonságos tárolása
 
-A 24 szót 2/3 - 2/3 - 2/3 arányban (az ábrán látható módon) felosztva írjuk le 3 külön papír- vagy fémlapra:  
+A 24 szót 2/3 - 2/3 - 2/3 arányban felosztva (az ábrán látható módon) írjuk le 3 külön papír- vagy fémlapra:  
 ![](https://user-images.githubusercontent.com/32912678/42778987-f2c65fee-890c-11e8-82f6-3aeab7304f14.png)  
+
+12 szó esetében:  
+![](.gitbook\assets\12words.PNG)  
+
 Így egy lap nem lesz elegendő a tárca visszállításához, de bármelyik kettőből menni fog. A lapokat a fentebb leírt módon egy egyedi matricával leragasztott borítékban tároljuk 3 földrajzilag elkülönülő helyen.
 
 Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a seed 2/3-ának birtokában elvileg már lehetséges a maradék 1 harmad próbálgatással való megtalálása. Ehhez persze egy nagyteljesítményű számítógép \(pl. egy GPU rig\) és jelentős szaktudás szükséges. Ennek esélyét és az így tárolt maximális összeget mindenkinek magának kell fontolóra vennie. A módszer leírása angolul: [https://github.com/JWWeatherman/how\_to\_store\_bitcoin](https://github.com/JWWeatherman/how_to_store_bitcoin)
