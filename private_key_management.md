@@ -18,7 +18,7 @@ A 24 szót 2/3 - 2/3 - 2/3 arányban felosztva (az ábrán látható módon) ír
 12 szó esetében:  
 ![](.gitbook/assets/12words.PNG)  
 
-Így egy lap nem lesz elegendő a tárca visszállításához, de bármelyik kettőből menni fog. A lapokat a fentebb leírt módon egy egyedi matricával leragasztott borítékban tároljuk 3 földrajzilag elkülönülő helyen.
+Így egy lap nem lesz elegendő a tárca visszaállításához, de bármelyik kettőből menni fog. A lapokat a fentebb leírt módon egy egyedi matricával leragasztott borítékban tároljuk 3 földrajzilag elkülönülő helyen.
 
 Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a seed 2/3-ának birtokában elvileg már lehetséges a maradék 1 harmad próbálgatással való megtalálása. Ehhez persze egy nagyteljesítményű számítógép \(pl. egy GPU rig\) és jelentős szaktudás szükséges. Ennek esélyét és az így tárolt maximális összeget mindenkinek magának kell fontolóra vennie. A módszer leírása angolul: [https://github.com/JWWeatherman/how\_to\_store\_bitcoin](https://github.com/JWWeatherman/how_to_store_bitcoin)
 
@@ -31,14 +31,14 @@ Ha nem áll rendelkezésünkre egy hardver tárca, vagy csak senkiben sem akarun
 
 1. Írjuk a Tails linux distrot egy DVD-re (USB pendrive-al is lehetséges): https://tails.boum.org/install/dvd-download/index.en.html
 2. Laptop indítása a DVD-ről
-3. Csatoljunk egy USB pendrive. Formázzuk a Tailsben. 
+3. Csatoljunk egy USB pendrive-ot. Formázzuk a Tailsben. 
 4. Hozzunk létre a pendrive-on egy .txt fáljlt 
 5. A beépített Electrum wallet indítása
 6. Tárca létrehozása az Electrumban:
     * Tárca információkat tároló fájl elnevezése  
     * Standard wallet  
     * Create new seed  
-    * SegWit 
+    * SegWit
     * Írjuk le a random generált 12 szót  
     * Írjuk be a szavakat ezzel ellenőrizve az előző lépést
     * A tárca file-t titkosíthatjuk egy jelszóval (akkor lenne szüksges, ha megtartanánk a fájlt)  
