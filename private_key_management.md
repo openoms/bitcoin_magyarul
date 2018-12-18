@@ -30,11 +30,12 @@ Ennek egyik módja egy hardver tárca használata, aminek a lényege, ha tárcá
 Ha nem áll rendelkezésünkre egy hardver tárca, vagy csak senkiben sem akarunk bízni egy offline számítógép segítségével is elvégezhető a feladat:
 
 1. Írjuk a Tails linux distrot egy DVD-re (USB pendrive-al is lehetséges): https://tails.boum.org/install/dvd-download/index.en.html
-2. Laptop indítása a DVD-ről
-3. Csatoljunk egy USB pendrive-ot. Formázzuk a Tailsben. 
-4. Hozzunk létre a pendrive-on egy .txt fáljlt 
-5. A beépített Electrum wallet indítása
-6. Tárca létrehozása az Electrumban:
+3. Húzzuk ki a vezetékes internetkapcsolatot (LAN kábelt), kapcsoljuk ki a wifi kártyát és a bluetooth-t, ha lehet szereljük ki. 
+4. Számítógép indítása a DVD-ről
+5. Csatoljunk egy USB pendrive-ot. Formázzuk a Tailsben. 
+6. Hozzunk létre a pendrive-on egy .txt fáljlt 
+7. Electrum wallet indítása
+8. Tárca létrehozása az Electrumban:
     * Tárca információkat tároló fájl elnevezése  
     * Standard wallet  
     * Create new seed  
@@ -43,15 +44,15 @@ Ha nem áll rendelkezésünkre egy hardver tárca, vagy csak senkiben sem akarun
     * Írjuk be a szavakat ezzel ellenőrizve az előző lépést
     * A tárca file-t titkosíthatjuk egy jelszóval (akkor lenne szüksges, ha megtartanánk a fájlt)  
     * View menu - Show Addresses
-    * Jobb kattintással egyenként másoljunk ki legalább 10 címet (bc1...) és illesszük a 3-as pontban létrehozott .txt fájlba. 
+    * Jobb kattintással egyenként másoljuk ki az első pár címet (bc1...) és illesszük a 3-as pontban létrehozott .txt fájlba. 
     * Wallet menu - Information  
-    * Másoljuk ki a Master public key-t (zpub...) és illesszük a .txt fájl végére (ez a tárca nyílvános, csak olvasási engedéllyel rendelkező kulcsa)
-7. Ellenőrizzük, hogy:
+    * Másoljuk ki a Master public key-t (zpub...) és illesszük a .txt fájl végére (ez a tárca nyílvános, csak olvasási engedéllyel rendelkező kulcsa, segítségével több címet is generálhatunk)
+9. Ellenőrizzük, hogy:
     * a seed-et olvashatóan leírtuk. Gondoskodjunk a megfelelő tárolásról.
     * Az USB pendrive tartalmazza a .txt fájlt a címekkel és a nyílvános  kulccsal
-9. Kapcsoljuk ki a számítógépet.
-8. A tárca tartalmát több szoftverből figyelhetjük. A nyílvános kulcsot (master public key) importálhatjuk a szokásos számítógépünkön futó Electrumba vagy mobilon a Sentinel app-ba. Így a coinjaink elköltésére, továbbküldésére nem lesz lehetőség, de bármikor ellenőrizhetjük tárcánk tartalmát.
-A **coinok elköltése csak a privát kulcs importálásával lehetséges**. Kezeljük a 12 szót ennek megfelelően.
+10. Kapcsoljuk ki a számítógépet.
+11. A tárca tartalmát több szoftverből figyelhetjük. A nyílvános kulcsot (master public key) importálhatjuk a szokásos operációs rendszerünkön futó Electrumba vagy mobilon a Sentinel app-ba. Így a coinjaink elköltésére, továbbküldésére nem lesz lehetőség, de bármikor ellenőrizhetjük tárcánk tartalmát.
+A **coinok küldése csak a privát kulcs (seed) importálásával lehetséges**. Kezeljük a 12 szót ennek megfelelően.
 
 ### Továbbiak
 
