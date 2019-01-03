@@ -17,7 +17,7 @@ Ezzel a szabályozással minden fiat pénzt tároló \(custodial\) bitcoin vált
 
 ## Non-custodial exchange-k
 
-Ezek nem tárolnak pénzt számodra, tehát a \(fiat\) pénzt közvetlenül az eladónak kell eljuttatni, a privát kulcsok pedig végig a tulajdonodban maradnak. Automatikus letét \(escrow\) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
+Ezek nem tárolnak pénzt számodra, tehát a \(fiat\) pénzt közvetlenül az eladónak kell eljuttatni,  de ** a privát kulcsok pedig végig a tulajdonodban maradnak**. Automatikus letét \(escrow\) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
 
 A leginkább titkos és megbízható decentralizált váltó: [https://bisq.network/](https://bisq.network/) Érdemes regisztrálni, hozzáadni fizetési módokat, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
 

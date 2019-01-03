@@ -8,9 +8,9 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
 ## Miért Bitcoin?
 
-1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától.
+1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától. Kormányoktól és politikától független.
 2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokoll szabályait. Egy teljesen nyitott rendszer, nincs szükség API kulcsra vagy bármilyen engedélyre ahhoz, hogy bárki bitcoin címet generálhasson vagy tranzakciót küldhessen.
-3. **Kötött mennyiség**: a protokoll összesen 21 millió bitcoin létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná.
+3. **Kötött mennyiség**: a protokoll összesen 21 millió bitcoin (érme) létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná. A létrehozott érmék száma minden időben nyílvánosan ellenőrizhető.
 4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
 5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: [https://www.blockchain.com/charts/hash-rate?scale=1×pan=all](https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all)\
 
@@ -18,7 +18,7 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
    [https://www.youtube.com/watch?v=S9JGmA5\_unY](https://www.youtube.com/watch?v=S9JGmA5_unY)
 
-6. **Decentralizált - elosztott hálózat**: Több mint 9 ezer publikusan elérhető számítógép \(node\) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: [https://bitnodes.earn.com/](https://bitnodes.earn.com/)
+6. **Decentralizált - elosztott hálózat**: Több mint 10 ezer publikusan elérhető számítógép \(node\) validálja és osztja a Bitcoin blockchaint és benne a tranzakciókat: [https://bitnodes.earn.com/](https://bitnodes.earn.com/). A nem publikusan elérhető node-ok számát csak becsülni lehet, a publikus számnak a sokszorosa.
 7. **Oszthatóság**: A legkisebb egység 1 satoshi ami 0,00000001 bitcoin azaz 10 a -9-en BTC. 100millió satoshi = 1 bitcoin. Amikor 1 bitcoin 1 millió forintba kerül \(kb. 3600 USD\) 1 satoshi 1 fillért ér.
 8. **Skálázhatóság és azonnali mikrotranzakciók**: A rohamosan növekvő Lightning Network hamarosan egy teljes fizetőrendszerré fejlődik. Lehetővé teszi pl. a  hirdetési bevételek mikro-tranzakciókkal való helyettesítését. A fizetési csatornákon történő tranzakciók nem kell, hogy a blockchainbe kerüljenek így azonnali megállapodást segítenek a felek között minimális díjért. Minden újabb csatorna növeli a küldhető összeg határát és az hálózat áteresztő-képességét. [https://bitcoinvisuals.com/lightning](https://bitcoinvisuals.com/lightning)
 
@@ -75,7 +75,7 @@ Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk
 
 Saifedean Ammous - The Bitcoin Standard: The Decentralized Alternative to Central Banking  
 [https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/](https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/)  
-Kalózverziók ebben a feedben:  
+Kalózverziók ebben a feed-ben:  
 [https://twitter.com/saifedean/status/1067030051596718081](https://twitter.com/saifedean/status/1067030051596718081)
 
 Ingyenesen elérhető könyv a központi bankok működéséről: Murray N. Rothbard - The Mystery of Banking  

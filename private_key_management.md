@@ -58,6 +58,8 @@ A **coinok küldése csak a privát kulcs (seed) importálásával lehetséges**
 
 [Jan/3➞₿🔑∎] [https://www.proofofkeys.com/](https://www.proofofkeys.com/)
 
+A privát kulcs biztonságos többfelé bontására alkalmas kriprográfiai módszer:[https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+
 Nagy érték tárolására kifejlesztett maximálisan paranoid módszer angolul:  
 [https://glacierprotocol.org/](https://glacierprotocol.org/)
 

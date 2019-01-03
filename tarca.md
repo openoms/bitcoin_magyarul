@@ -29,7 +29,7 @@ A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel \(Trez
 [https://bitcoincore.org/en/download/](https://bitcoincore.org/en/download/)
 
 **Wasabi wallet**  
-magyarok által fejlesztett, beépített CoinJoin-nal, ami a coinok történetét maszkolja el a blockchainen : [https://www.wasabiwallet.io/](https://www.wasabiwallet.io/)
+Nyílt forráskódú, bizalmasság orientált Bitcoin tárca Windowsra, Linuxra és Mac-re. Beépített Tor anonimitási hálózattal, érmetársítási és érme-irányítási funkciókkal. Magyarok által fejlesztve. [https://www.wasabiwallet.io/](https://www.wasabiwallet.io/)
 
 ## Hardver tárca \(hardware wallet\)
 
