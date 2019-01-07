@@ -31,8 +31,8 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
 ## Továbbiak magyarul
 
-A Bitcoin WhitePaper fordítása:  
-[https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/](https://www.bitcoinbazis.hu/utmutato/szatosi-feher-konyv/)
+A Bitcoin whitepaper fordítása:  
+[https://www.bitcoinbazis.hu/wp-content/uploads/2018/02/Szatosi-Nakamoto-Egy-P2P-elektronikus-készpénzrendszer.pdf](https://www.bitcoinbazis.hu/wp-content/uploads/2018/02/Szatosi-Nakamoto-Egy-P2P-elektronikus-készpénzrendszer.pdf)
 
 Andreas M. Antonopoulos - Mastering Bitcoin Open Edition magyar fordítása:  
 [https://bitcoinbook.info/wp-content/translations/hu/book.pdf](https://bitcoinbook.info/wp-content/translations/hu/book.pdf)
