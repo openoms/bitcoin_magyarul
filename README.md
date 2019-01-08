@@ -68,16 +68,27 @@ Kövesd az élő beszélgetést a \(Crypto\)Twitteren:
 
 ## Az osztrák közgazdaságtani iskola alapjai
 
-Könyvajánlat:
+Könyvajánlat magyarul:
+
+Murray N. Rothbard - Mit művelt a kormány a pénzünkkel?[https://mises-media.s3.amazonaws.com/What%20Has%20Government%20Done%20to%20Our%20Money%20%E2%80%94%20Hungarian%20translation.pdf](https://mises-media.s3.amazonaws.com/What%20Has%20Government%20Done%20to%20Our%20Money%20%E2%80%94%20Hungarian%20translation.pdf)
 
 Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk  
 [https://libertarianizmus.hu/rothbard-valsagok/](https://libertarianizmus.hu/rothbard-valsagok/)
+
+Könyvajánlat angolul:
 
 Saifedean Ammous - The Bitcoin Standard: The Decentralized Alternative to Central Banking  
 [https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/](https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/)  
 Kalózverziók ebben a feed-ben:  
 [https://twitter.com/saifedean/status/1067030051596718081](https://twitter.com/saifedean/status/1067030051596718081)
 
-Ingyenesen elérhető könyv a központi bankok működéséről: Murray N. Rothbard - The Mystery of Banking  
+Ludwig von Mises - The Theory of Money and Credit
+[https://mises.org/library/theory-money-and-credit](https://mises.org/library/theory-money-and-credit)
+
+Murray N. Rothbard - The Mystery of Banking  
 [https://mises.org/library/mystery-banking](https://mises.org/library/mystery-banking)
+
+Jörg Guido Hülsmann - The Ethics of Money Production
+[https://mises.org/library/ethics-money-production]
+(https://mises.org/library/ethics-money-production)
 

@@ -25,7 +25,7 @@ Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a se
 
 # Privát kulcs generálás offline (cold storage)
 
-Ha biztosak akarun lenni abban, hogy privát kulcsunkhoz senkinek sincs hozzáférése a tudtunk nélkül, olyan módon kell létre hoznunk, hogy nem is érintkezzen internet kapcsolattal rendelkező géppel.
+Ha biztosak akarunk lenni abban, hogy privát kulcsunkhoz senkinek sincs hozzáférése a tudtunk nélkül, olyan módon kell létre hoznunk, hogy nem is érintkezzen internet kapcsolattal rendelkező géppel.
 Ennek egyik módja egy hardver tárca használata, aminek a lényege, ha tárcába épített hardveres titkosító chip végzi a tranzakciók aláírását, így a benne tárolt privát kulcs el van szigeteleve a kapcsolódott számítógéptől.
 Ha nem áll rendelkezésünkre egy hardver tárca, vagy csak senkiben sem akarunk bízni egy offline számítógép segítségével is elvégezhető a feladat:
 
