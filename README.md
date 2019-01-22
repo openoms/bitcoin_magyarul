@@ -8,9 +8,10 @@ _Ez a dokumentum kezdőknek való bevezetésre szolgál saját kutatás és tapa
 
 ## Miért Bitcoin?
 
+
 1. **Cenzúrázhatatlan**: senki sem tiltható el a használatától. Kormányoktól és politikától független.
 2. **Engedély-nélküli**: bárki részt vehet a hálózatban, az egyetlen feltétel, hogy kövesse a protokoll szabályait. Egy teljesen nyitott rendszer, nincs szükség API kulcsra vagy bármilyen engedélyre ahhoz, hogy bárki bitcoin címet generálhasson vagy tranzakciót küldhessen.
-3. **Kötött mennyiség**: a protokoll összesen 21 millió bitcoin (érme) létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná. A létrehozott érmék száma minden időben nyílvánosan ellenőrizhető.
+3. **Kötött mennyiség**: a protokoll összesen 21 millió bitcoin (érme) létrehozását teszi lehetővé. Nincs olyan személy vagy hozzáférési szint, ami ezt a konszenzust megváltoztathatná. A létrehozott érmék száma minden időben nyílvánosan ellenőrizhető. Ezért lehet ebből egy olyan pénz, ami nem veszíti napról napra az értékét. A közpoti bankok helyett az egyén kezébe teszi az irányítást.
 4. **Lindy effektus**: minél tovább létezik annál nagyobb esélye van tovább fennmaradni. A Bitcoin blockchain 2009 január 3-án indult és azóta szakadatlanul termeli blokkjait.
 5. **Páratlan biztonság**: jelenleg közel 40 Exahash/s számítási kapacitás biztosítja a hálózatot: [https://www.blockchain.com/charts/hash-rate?scale=1×pan=all](https://www.blockchain.com/charts/hash-rate?scale=1&timespan=all)\
 
