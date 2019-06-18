@@ -2,7 +2,7 @@
 
 \[[Bevezetés](./)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
 
-Elérkeztünk odáig, hogy a kormány által kibocsátott \(fiat\) pénzünket szeretnénk igazi kemény bitcoinra váltani.
+Szeretnéd a kormány által kibocsátott \(fiat\) pénzedet igazi, kemény bitcoinra váltani? Részletek itt.
 
 Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltáshoz és mozgatáshoz érdemes egy [Revolut](https://www.revolut.com) accountot és kártyát szerezni. Ingyenes és nemzetközi utazáshoz is hasznos.
 
@@ -25,11 +25,11 @@ A vásárlás lépései:
 * Bitcoin tárca generálás - [részletek](tarca.md)
 * [Regisztráció](https://getbittr.com/save-bitcoin) emaillel ás telefonszámmal (bármelyik európai országból)
 * Euro utalás a regisztráció során megadott számlaszám és közlemény használatával.
-* Pár órába kerül amíg a utalásnak megfelelő bitcoin összeg megjelenik a tárcában
-* Ajánlott egy kisebb összegű, rendszeres automatikus utalás beállítása az bitcoin gyakori árváltozásának az ellensúlyozására.
+* Pár órába kerül amíg az utalásnak megfelelő bitcoin összeg megjelenik a tárcában.
+* Ajánlott egy kisebb összegű, rendszeres, automatikus utalás beállítása a bitcoin gyakori árváltozásának ellensúlyozására.
 
-Euro utalás fotint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
-Ajánlott egy ingyenes Euro számla nyitásra: 
+Euro utalás forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
+Ajánlott egy ingyenes Euro számla nyitása: 
 * [Bunq](https://www.bunq.com/) - Holland online bank  
 Ruben meghívójával a kártya egyszeri 10 eurós díja visszajár: https://bunq.com/invite/RFWaterman
 
@@ -46,13 +46,14 @@ Díjak:
 
 Ezek nem tárolnak pénzt számodra, tehát a \(fiat\) pénzt közvetlenül az eladónak kell eljuttatni,  de **a privát kulcsok pedig végig a tulajdonodban maradnak**. Automatikus letét \(escrow\) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
 
-A leginkább titkos és megbízható decentralizált váltó: [https://bisq.network/](https://bisq.network/) Érdemes regisztrálni, hozzáadni fizetési módokat, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
+A leginkább titkos és megbízható decentralizált váltó a [Bisq](https://bisq.network/).
+Érdemes regisztrálni és fizetési módokat hozzáadni, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
 
-Központi szerverrel rendelkező peer-to-peer exchange, ami szintén nem kötött személyes adatok megadásához: [https://hodlhodl.com/](https://hodlhodl.com/)
+Központi szerverrel rendelkező peer-to-peer exchange, ami szintén nem kötött személyes adatok megadásához: [HodlHodl](https://hodlhodl.com/)
 
-## Custodial exchange avagy kripto-bank
+## Custodial exchange avagy bitcoin-bank
 
-Ha nem zavar személyes adataid kiszivárgása a egyik legnépszerűbb általam kipróbált exchange a [https://www.coinbase.com/.](https://www.coinbase.com/.) EUR, GBP, USD fiat pénzben működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében. Ugyanazzal a regisztrációval a [https://pro.coinbase.com/](https://pro.coinbase.com/) felülettel érdemes megismerkedni, mert ott díjmentes bitcoin vásárlásra van lehetőség. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
+Ha nagyobb tételben akarsz vásárolni és nem zavar a személyes adataid kiszivárgása az egyik legnépszerűbb exchange a [Coinbase.com](https://www.coinbase.com/). EUR, GBP, USD valutákban működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében. Ugyanazzal a regisztrációval a [https://pro.coinbase.com/](https://pro.coinbase.com/) felülettel érdemes megismerkedni, mert ott alacsonyabb díjjal lehet vásárolni. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
 
 ## A vásárlás menete \(LIMIT BUY\)
 
