@@ -2,7 +2,7 @@
 
 \[[Bevezetés](./)\] - \[[Bitcoin tárca](tarca.md)\] - \[[Vásárlás](vasarlas.md)\] - \[[Privát kulcs kezelés](private_key_management.md)\] - \[[AntiFUD](antifud.md)\] - \[[Magyar Bitcoin projektek](magyarok.md)\] - \[[Bitcoin programozás](programozas.md)\]
 
-## Be your own bank - Légy a saját bankod
+## Légy a saját bankod (Be your own bank)
 
 A bitcoin tárolása tárcákban \(wallet\) történik. A tárcák igazából egyetlen lényeges dolgot tárolnak: a privát kulcsot \(private key\), ami a coin elköltéséhez szükséges. Minden egyéb: a címek, a címeken ülő összegek mind kiolvashatóak a blockchainből.
 
@@ -10,26 +10,21 @@ A privát kulcs teljes hozzáférést ad a hozzá tartozó coinokhoz így külö
 
 Internetes tárca használatát - legyen az bármelyik exchange vagy a blockchain.com - nem ajánlhatom, mert ezek esetében nincs a használó birtokában a privát kulcs így nem mondható, hogy az ott tárolt bitcoin az övé lenne. Kriptovaluták esetében egyelőre sehol sincs állami garancia arra, hogy hozzáférhessünk, ami számlánkon van így mindenkinek magának kell gondoskodnia a biztonságáról.
 
-A legmegbízhatóbb általam jól ismert tárcák:
+## A legmegbízhatóbb, jól ismert tárca alkalmazások
 
-## Android
+* [GreenAddress](https://greenaddress.it/en/) - Androidra vagy iOS-re.
+[Leírás képekkel angolul](https://getbittr.com/blog/how-do-i-set-up-a-blockstream-green-wallet).
 
-**Samourai Wallet**: [https://play.google.com/store/apps/details?id=com.samourai.wallet](https://play.google.com/store/apps/details?id=com.samourai.wallet)
+* [Electrum](https://electrum.org/#download) - minden népszerű rendszerre elérhető. A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel \(Trezor, Ledger, Coldcard, stb. \) és képes multi-signature címeket létrehozni. 
 
-## iOS
+* [Samourai Wallet](https://play.google.com/store/apps/details?id=com.samourai.wallet) - bizalmas adatkezelésre optimalizált alkalmazás Androidra
 
-**Green Address**: [https://itunes.apple.com/app/id1206035886](https://itunes.apple.com/app/id1206035886)
+* [Wasabi wallet](https://www.wasabiwallet.io/) - 
+Nyílt forráskódú, bizalmas adatkezelésre optimalizált Bitcoin tárca Windowsra, Linuxra és Mac-re. Beépített Tor anonimitási hálózattal, érmetársítási és érme-irányítási funkciókkal. Magyarok által fejlesztve.
 
-## Desktop \(Linux/Mac/Windows\)
 
-**Electrum**:  
-A legnépszerűbb asztali tárca. Együttműködik a hardware walletekkel \(Trezor, Ledger, Coldcard\) és képes multi-signature címeket létrehozni. [https://electrum.org/\#download](https://electrum.org/#download)
-
-**Bitcoin Core \(Full node\)**  
+* Bitcoin Core \(Full node\) 
 [https://bitcoincore.org/en/download/](https://bitcoincore.org/en/download/)
-
-**Wasabi wallet**  
-Nyílt forráskódú, bizalmasság orientált Bitcoin tárca Windowsra, Linuxra és Mac-re. Beépített Tor anonimitási hálózattal, érmetársítási és érme-irányítási funkciókkal. Magyarok által fejlesztve. [https://www.wasabiwallet.io/](https://www.wasabiwallet.io/)
 
 ## Hardver tárca \(hardware wallet\)
 

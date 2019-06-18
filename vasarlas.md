@@ -4,7 +4,7 @@
 
 Elérkeztünk odáig, hogy a kormány által kibocsátott \(fiat\) pénzünket szeretnénk igazi kemény bitcoinra váltani.
 
-Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltáshoz és mozgatáshoz érdemes egy Revolut accountot és kártyát szerezni. Ingyenes és nemzetközi utazáshoz is hasznos. [https://www.revolut.com](https://www.revolut.com)
+Forintban sajnos egyelőre nagyon kicsi a likviditás így EUR/GBP/HUF váltáshoz és mozgatáshoz érdemes egy [Revolut](https://www.revolut.com) accountot és kártyát szerezni. Ingyenes és nemzetközi utazáshoz is hasznos.
 
 Pár fogalmat érdemes ismerni az exchange-ekkel kapcsolatban:
 
@@ -15,9 +15,36 @@ Ez a két rövidítés az USA-ból származó törvényi követelményekre utal,
 
 Ezzel a szabályozással minden fiat pénzt tároló \(custodial\) bitcoin váltónak együtt kell működnie. A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget.
 
+## [Bittr](https://www.getbittr.com/) - a legyegyszerűbb bitcoin vásárlási mód
+
+
+Twitteren: https://twitter.com/GetBittr. Az alapító: https://twitter.com/watermaniak
+
+A vásárlás lépései: 
+
+* Bitcoin tárca generálás - [részletek](tarca.md)
+* [Regisztráció](https://getbittr.com/save-bitcoin) emaillel ás telefonszámmal (bármelyik európai országból)
+* Euro utalás a regisztráció során megadott számlaszám és közlemény használatával.
+* Pár órába kerül amíg a utalásnak megfelelő bitcoin összeg megjelenik a tárcában
+* Ajánlott egy kisebb összegű, rendszeres automatikus utalás beállítása az bitcoin gyakori árváltozásának az ellensúlyozására.
+
+Euro utalás fotint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
+Ajánlott egy ingyenes Euro számla nyitásra: 
+* [Bunq](https://www.bunq.com/) - Holland online bank  
+Ruben meghívójával a kártya egyszeri 10 eurós díja visszajár: https://bunq.com/invite/RFWaterman
+
+* [N26](https://n26.com/en-eu/) - Népszerű német online bank
+
+* Forint euróra váltására a [Transferwise](https://transferwise.com/) vagy [Revolut](https://www.revolut.com) a legolcsóbb mód.
+
+Díjak:
+* A Bittr szolgáltatási díja fix 1.5%
+* Revoluttal a banki nyitvatartési időben havi 5000 euró banki középárfolyamon plusz plusz díj nélkül váltható: https://www.revolut.com/legal/fees/
+* A Transferwise HUF-EUR váltási díja 1-2%:  https://transferwise.com/pricing/#pricing-page-calculator-anchor
+
 ## Non-custodial exchange-k
 
-Ezek nem tárolnak pénzt számodra, tehát a \(fiat\) pénzt közvetlenül az eladónak kell eljuttatni,  de ** a privát kulcsok pedig végig a tulajdonodban maradnak**. Automatikus letét \(escrow\) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
+Ezek nem tárolnak pénzt számodra, tehát a \(fiat\) pénzt közvetlenül az eladónak kell eljuttatni,  de **a privát kulcsok pedig végig a tulajdonodban maradnak**. Automatikus letét \(escrow\) rendszerrel felelnek a biztonságért. Általában lassabbak és valamennyivel drágábbak az adatokat és pénzt tároló exchangeknél.
 
 A leginkább titkos és megbízható decentralizált váltó: [https://bisq.network/](https://bisq.network/) Érdemes regisztrálni, hozzáadni fizetési módokat, mert a kereskedési limitek a regisztrációt követő hetekben fokozatosan növekednek.
 

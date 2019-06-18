@@ -11,16 +11,23 @@ Egy rövid blockchain és Proof-of-Work rendszer írása Pythonban: [https://www
 
 Források teljesen kezdőknek: [https://medium.com/@pierre\_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09](mailto:https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09)
 
+[Grokking Bitcoin könyv angolul](https://www.manning.com/books/grokking-bitcoin)
+
 Programming the Blockchain in C\# - Community Edition [https://programmingblockchain.gitbook.io/programmingblockchain](https://programmingblockchain.gitbook.io/programmingblockchain)
 
+
+
 ## Kurzusok
+
+[Mooniversity](https://mooniversity.io/) - programozás Bitcoin használóknak angolul
 
 [https://buidlbootcamp.com/](https://buidlbootcamp.com/)
 
 [https://programmingwithbitcoin.com/](https://programmingwithbitcoin.com/)
 
-Jimmy Song kurzusa:  
+Jimmy Song kurzusaÉ  
 [https://programmingblockchain.com/](https://programmingblockchain.com/)  
 és a könyv, amire épül:  
 [https://github.com/jimmysong/programmingbitcoin](https://github.com/jimmysong/programmingbitcoin)
+
 

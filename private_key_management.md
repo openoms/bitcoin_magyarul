@@ -29,39 +29,42 @@ Ha biztosak akarunk lenni abban, hogy privát kulcsunkhoz senkinek sincs hozzáf
 Ennek egyik módja egy hardver tárca használata, aminek a lényege, ha tárcába épített hardveres titkosító chip végzi a tranzakciók aláírását, így a benne tárolt privát kulcs el van szigeteleve a kapcsolódott számítógéptől.
 Ha nem áll rendelkezésünkre egy hardver tárca, vagy csak senkiben sem akarunk bízni egy offline számítógép segítségével is elvégezhető a feladat:
 
-1. Írjuk a Tails linux distrot egy DVD-re (USB pendrive-al is lehetséges): https://tails.boum.org/install/dvd-download/index.en.html
-3. Húzzuk ki a vezetékes internetkapcsolatot (LAN kábelt), kapcsoljuk ki a wifi kártyát és a bluetooth-t, ha lehet szereljük ki. 
-4. Számítógép indítása a DVD-ről
-5. Csatoljunk egy USB pendrive-ot. Formázzuk a Tailsben. 
-6. Hozzunk létre a pendrive-on egy .txt fáljlt 
-7. Electrum wallet indítása
-8. Tárca létrehozása az Electrumban:
-    * Tárca információkat tároló fájl elnevezése  
+1. Írd a Tails linux distrot egy DVD-re (USB pendrive-al is lehetséges): https://tails.boum.org/install/dvd-download/index.en.html
+3. Húzd ki a vezetékes internetkapcsolatot (LAN kábelt), kapcsold ki a wifi kártyát és a bluetooth-t (ha lehet, szereld ki). 
+4. Indítsd a számítógépet a DVD-ről
+5. Csatolj egy USB pendrive-ot. Formázzuk a Tailsben. 
+6. Hozz létre a pendrive-on egy .txt fáljt 
+7. Indítsd el az Electrum walletet
+8. Hozz létre egy tárcát az Electrumban:
+    * Nevezd el a tárca információkat tároló fájlt 
     * Standard wallet  
     * Create new seed  
     * SegWit
-    * Írjuk le a random generált 12 szót  
-    * Írjuk be a szavakat ezzel ellenőrizve az előző lépést
-    * A tárca file-t titkosíthatjuk egy jelszóval (akkor lenne szüksges, ha megtartanánk a fájlt)  
+    * Írd le a random generált 12 szót  
+    * Írd be a szavakat ezzel ellenőrizve az előző lépést
+    * A tárca file-t titkosítható egy jelszóval (akkor lenne szükséges, ha megtartanánk a fájlt)  
     * View menu - Show Addresses
-    * Jobb kattintással egyenként másoljuk ki az első pár címet (bc1...) és illesszük a 3-as pontban létrehozott .txt fájlba. 
+    * Jobb kattintással egyenként másold ki az első pár címet (bc1...) és illeszd a 3-as pontban létrehozott .txt fájlba. 
     * Wallet menu - Information  
-    * Másoljuk ki a Master public key-t (zpub...) és illesszük a .txt fájl végére (ez a tárca nyílvános, csak olvasási engedéllyel rendelkező kulcsa, segítségével több címet is generálhatunk)
-9. Ellenőrizzük, hogy:
-    * a seed-et olvashatóan leírtuk. Gondoskodjunk a megfelelő tárolásról.
+    * Másold ki a Master public key-t (zpub...) és illeszd a .txt fájl végére (ez a tárca nyílvános, csak olvasási engedéllyel rendelkező kulcsa, segítségével több címet is generálhatunk)
+9. Ellenőrizd, hogy:
+    * a seed jól olvashatóan van leírva. Gondoskodj a megfelelő tárolásról.
     * Az USB pendrive tartalmazza a .txt fájlt a címekkel és a nyílvános  kulccsal
-10. Kapcsoljuk ki a számítógépet.
-11. A tárca tartalmát több szoftverből figyelhetjük. A nyílvános kulcsot (master public key) importálhatjuk a szokásos operációs rendszerünkön futó Electrumba vagy mobilon a Sentinel app-ba. Így a coinjaink elköltésére, továbbküldésére nem lesz lehetőség, de bármikor ellenőrizhetjük tárcánk tartalmát.
-A **coinok küldése csak a privát kulcs (seed) importálásával lehetséges**. Kezeljük a 12 szót ennek megfelelően.
+10. Kapcsold ki a számítógépet.
+11. A tárca tartalmát több szoftverből figyelheted. A nyílvános kulcsot (master public key) importálhatad a szokásos operációs rendszereden futó Electrumba vagy mobilon a Sentinel app-ba. Így a coin-ok elköltésére, továbbküldésére nem lesz lehetőség, de bármikor ellenőrizheted a tárca tartalmát.
+A **coinok küldése csak a privát kulcs (seed) importálásával lehetséges**. Kezeld a 12 szót ennek megfelelően.
 
 ### Továbbiak
 
-[Jan/3➞₿🔑∎] [https://www.proofofkeys.com/](https://www.proofofkeys.com/)
+* [https://www.proofofkeys.com/](https://www.proofofkeys.com/)
 
-A privát kulcs biztonságos többfelé bontására alkalmas kriprográfiai módszer:[https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
+* A privát kulcs biztonságos többfelé bontására alkalmas kriprográfiai módszer: [https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
 
-Nagy érték tárolására kifejlesztett maximálisan paranoid módszer angolul:  
+* Biztonságos és privát bitcoin tárolási módszerek lépésről-lépésre: https://github.com/DriftwoodPalace/guides
+
+* Nagy érték tárolására kifejlesztett maximálisan paranoid módszer angolul:  
 [https://glacierprotocol.org/](https://glacierprotocol.org/)
 
-Privát kulcsok tárolásának biztosítására szakosodott cég:  
+* Multisig megoldások:  
+https://www.unchained-capital.com/vaults/  
 [https://keys.casa/](https://keys.casa/)
