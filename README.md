@@ -71,7 +71,7 @@ Kövesd az élő beszélgetést a \(Crypto\)Twitteren:
 
 Könyvajánlat magyarul:
 
-Murray N. Rothbard - Mit művelt a kormány a pénzünkkel?[https://mises-media.s3.amazonaws.com/What%20Has%20Government%20Done%20to%20Our%20Money%20%E2%80%94%20Hungarian%20translation.pdf](https://mises-media.s3.amazonaws.com/What%20Has%20Government%20Done%20to%20Our%20Money%20%E2%80%94%20Hungarian%20translation.pdf)
+Murray N. Rothbard - Mit művelt a kormány a pénzünkkel?[https://d206501ssxmwto.cloudfront.net/wp-content/uploads/2017/12/Murray-N.-Rothbard-Mit-muvelt-a-kormany-a-penzunkkel5.pdf](https://d206501ssxmwto.cloudfront.net/wp-content/uploads/2017/12/Murray-N.-Rothbard-Mit-muvelt-a-kormany-a-penzunkkel5.pdf)
 
 Murray N. Rothbard - Gazdasági Válságok: Okaik és gyógymódjuk  
 [https://libertarianizmus.hu/rothbard-valsagok/](https://libertarianizmus.hu/rothbard-valsagok/)
