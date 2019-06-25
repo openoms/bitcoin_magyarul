@@ -30,10 +30,9 @@ A vásárlás lépései:
 
 Euro utalás forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
 Ajánlott egy ingyenes Euro számla nyitása: 
-* [Bunq](https://www.bunq.com/) - Holland online bank  
-Ruben meghívójával a kártya egyszeri 10 eurós díja visszajár: https://bunq.com/invite/RFWaterman
+* [N26](https://n26.com/en-eu/) - Német online bank német lakcím szükséges.
 
-* [N26](https://n26.com/en-eu/) - Népszerű német online bank
+* [Starling Euro számla](https://www.starlingbank.com/current-account/euro-bank-account/) - Angol online bank - UK lakcím szükséges.
 
 * Forint euróra váltására a [Transferwise](https://transferwise.com/) vagy [Revolut](https://www.revolut.com) a legolcsóbb mód.
 
