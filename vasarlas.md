@@ -15,8 +15,7 @@ Ez a két rövidítés az USA-ból származó törvényi követelményekre utal,
 
 Ezzel a szabályozással minden fiat pénzt tároló \(custodial\) bitcoin váltónak együtt kell működnie. A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget.
 
-## [Bittr](https://www.getbittr.com/) - a legyegyszerűbb bitcoin vásárlási mód
-
+## [Bittr](https://www.getbittr.com/) - a legegyszerűbb bitcoin vásárlási mód
 
 Twitteren: https://twitter.com/GetBittr. Az alapító: https://twitter.com/watermaniak
 
@@ -28,17 +27,18 @@ A vásárlás lépései:
 * Pár órába kerül amíg az utalásnak megfelelő bitcoin összeg megjelenik a tárcában.
 * Ajánlott egy kisebb összegű, rendszeres, automatikus utalás beállítása a bitcoin gyakori árváltozásának ellensúlyozására.
 
-Euro utalás forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
+Az Euro utalás forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
 Ajánlott egy ingyenes Euro számla nyitása: 
-* [N26](https://n26.com/en-eu/) - Német online bank német lakcím szükséges.
 
-* [Starling Euro számla](https://www.starlingbank.com/current-account/euro-bank-account/) - Angol online bank - UK lakcím szükséges.
+* [Revolut](https://www.revolut.com) - angol online bank európai banki liszensszel. Elérhető Magyarországon is. Egy [meghívó](https://www.revolut.com/referral/sandorpee) használata esetén ingyen postázzák a bankkártyát.
+* [N26](https://n26.com/en-eu/) - német online bank - német lakcím szükséges.
+* [Starling Euro számla](https://www.starlingbank.com/current-account/euro-bank-account/) - angol online bank - UK lakcím szükséges.
 
-* Forint euróra váltására a [Transferwise](https://transferwise.com/) vagy [Revolut](https://www.revolut.com) a legolcsóbb mód.
+* Forint euróra váltására a [Transferwise](https://transferwise.com/) is egy olcsó mód. 
 
 Díjak:
 * A Bittr szolgáltatási díja fix 1.5%
-* Revoluttal a banki nyitvatartési időben havi 5000 euró banki középárfolyamon plusz plusz díj nélkül váltható: https://www.revolut.com/legal/fees/
+* Revoluttal a banki nyitvatartási időben havi 5000 euró banki középárfolyamon plusz plusz díj nélkül váltható: https://www.revolut.com/legal/fees/
 * A Transferwise HUF-EUR váltási díja 1-2%:  https://transferwise.com/pricing/#pricing-page-calculator-anchor
 
 ## Non-custodial exchange-k
