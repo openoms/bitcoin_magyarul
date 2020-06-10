@@ -15,29 +15,17 @@ Ez a két rövidítés az USA-ból származó törvényi követelményekre utal,
 
 Ezzel a szabályozással minden fiat pénzt tároló \(custodial\) bitcoin váltónak együtt kell működnie. A különböző mértékben decentralizált szervezetek megkerülik ezt a problémát úgy, hogy peer-to-peer kereskedelemre adnak lehetőséget.
 
-## [Bittr](https://www.getbittr.com/) - a legegyszerűbb bitcoin vásárlási mód
+* Ajánlott kisebb összegű, de rendszeres vásárlás a bitcoin gyakori árváltozásának ellensúlyozására.
 
-Twitteren: https://twitter.com/GetBittr. Az alapító: https://twitter.com/watermaniak
-
-A vásárlás lépései: 
-
-* Bitcoin tárca generálás - [részletek](tarca.md)
-* [Regisztráció](https://getbittr.com/save-bitcoin) emaillel ás telefonszámmal (bármelyik európai országból)
-* Euro utalás a regisztráció során megadott számlaszám és közlemény használatával.
-* Pár órába kerül amíg az utalásnak megfelelő bitcoin összeg megjelenik a tárcában.
-* Ajánlott egy kisebb összegű, rendszeres, automatikus utalás beállítása a bitcoin gyakori árváltozásának ellensúlyozására.
-
-Az Euro utalás forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
+Az Euro utalás Forint alapú bankszámláról banktól függően jelentős pluszköltséggel jár.  
 Ajánlott egy ingyenes Euro számla nyitása: 
 
 * [Revolut](https://www.revolut.com) - angol online bank európai banki liszensszel. Elérhető Magyarországon is. Egy [meghívó](https://www.revolut.com/referral/sandorpee) használata esetén ingyen postázzák a bankkártyát.
 * [N26](https://n26.com/en-eu/) - német online bank - német lakcím szükséges.
 * [Starling Euro számla](https://www.starlingbank.com/current-account/euro-bank-account/) - angol online bank - UK lakcím szükséges.
-
 * Forint euróra váltására a [Transferwise](https://transferwise.com/) is egy olcsó mód. 
 
 Díjak:
-* A Bittr szolgáltatási díja fix 1.5%
 * Revoluttal a banki nyitvatartási időben havi 5000 euró banki középárfolyamon plusz plusz díj nélkül váltható: https://www.revolut.com/legal/fees/
 * A Transferwise HUF-EUR váltási díja 1-2%:  https://transferwise.com/pricing/#pricing-page-calculator-anchor
 
@@ -52,37 +40,7 @@ Központi szerverrel rendelkező peer-to-peer exchange, ami szintén nem kötöt
 
 ## Custodial exchange avagy bitcoin-bank
 
-Ha nagyobb tételben akarsz vásárolni és nem zavar a személyes adataid kiszivárgása az egyik legnépszerűbb exchange a [Coinbase.com](https://www.coinbase.com/). EUR, GBP, USD valutákban működik. Hitelkártyával akár azonnali vásárlást enged 2-4%-os díjért, de inkább utalni érdemes az alacsonyabb díjak érdekében. Ugyanazzal a regisztrációval a [https://pro.coinbase.com/](https://pro.coinbase.com/) felülettel érdemes megismerkedni, mert ott alacsonyabb díjjal lehet vásárolni. Sőt a BTC kiküldésekor jelentkező mining/network fee-t is állják.
-
-## A vásárlás menete \(LIMIT BUY\)
-
-[https://pro.coinbase.com/](https://pro.coinbase.com/) regisztráció és bejelentkezés.  
-`Select Market:` `BTC - EUR` &gt;  
-`DEPOSIT` &gt;  
-`Select currency` &gt;  
-`Euro`  
-Az itt megjelent IBAN szamlaszámra lehet utalni. **Fontos a megadott közleményt feltüntetni!** 2-5 napba telik amíg megérkezik az összeg és az `EUR` mezőben látható lesz.
-
-Ezután fentről lefelé:  
-`BUY` opció &gt;  
-`LIMIT` &gt;  
-`Limit Price`: a felül olvasható `Last Trade price` beírása egy jó választás &gt;  
-`Amount`: a beállított áron \(vagy az alatt\) vásárlandó BTC mennyisége. `Max` vagy kevesebb. &gt;  
-`Post Only` &gt;  
-**utolsó ellenőrzés** &gt;  
-`PLACE BUY ORDER`.  
-Ha elég magas árat adtunk meg pillanatok alatt végbemegy a vásárlás és fent megjelenik a vásárolt BTC összege. Ha nem így lenne, érdemes várni, az ár naponta is 100 eurókat ingadozik, így hamar eléri majd a limitet.
-
-Ezután erősen ajánlott a vásárolt BTC-t kiküldeni a saját kontrollunk alatt álló tárcába:  
-`WITHDRAW` &gt;  
-`Select currency` &gt;  
-`Bitcoin` &gt;  
-`Destination`: a bitcoin walletünk által adott receive address&gt;  
-`Amount`: `Max`vagy kevesebb&gt;  
-`WITHDRAW BTC` &gt;  
-ellenőrzés és a beállított jelszó és 2FA megadása
-
-Pár órába is telhet amíg a Coinbase elküldi a tranzakciót, de akkor a tárcában azonnal megjelenik az összeg. Onnan tovább majd akkor mozgathatjuk, ha belekerült egy blokkba és a blockchainen regisztrálódott a helyzete. Ahogy további blokkok épülnek rá egyre biztosabbak lehetünk benne, hogy elkobozhatatlan pénzre tettünk szert.
+Ha csak lehet érdemes elkerülni személyes adatok megosztását és azoknak bitcoin tulajdonlással-vásárlással való összekötését.
 
 ## 
 
