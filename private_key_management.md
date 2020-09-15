@@ -10,7 +10,7 @@ Ezt seedet ne elektronikusan tároljuk. Kis érték esetén egy papírlapon leí
 
 Papírlap helyett használhatunk fémlapot, amibe beleütve, vagy gravírozva a szavakat sokkal ellenállóbb lesz a környezeti hatásoknak. Egy borítékban leragasztva, esetleg számozott, hologramos biztonsági matricával védve elrejthetjük a kíváncsi szemek elől.
 
-# A privát kulcs (seed) biztonságos tárolása
+# A privát kulcs (seed) tárolása
 
 A 24 szót 2/3 - 2/3 - 2/3 arányban felosztva (az ábrán látható módon) írjuk le 3 külön papír- vagy fémlapra:  
 ![](https://user-images.githubusercontent.com/32912678/42778987-f2c65fee-890c-11e8-82f6-3aeab7304f14.png)  
@@ -20,8 +20,10 @@ A 24 szót 2/3 - 2/3 - 2/3 arányban felosztva (az ábrán látható módon) ír
 
 Így egy lap nem lesz elegendő a tárca visszaállításához, de bármelyik kettőből menni fog. A lapokat a fentebb leírt módon egy egyedi matricával leragasztott borítékban tároljuk 3 földrajzilag elkülönülő helyen.
 
-Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a seed 2/3-ának birtokában elvileg már lehetséges a maradék 1 harmad próbálgatással való megtalálása. Ehhez persze egy nagyteljesítményű számítógép \(pl. egy GPU rig\) és jelentős szaktudás szükséges. Ennek esélyét és az így tárolt maximális összeget mindenkinek magának kell fontolóra vennie. A módszer leírása angolul: [https://github.com/JWWeatherman/how\_to\_store\_bitcoin](https://github.com/JWWeatherman/how_to_store_bitcoin)
+Ha egy passphrase is szükséges a (teljes) egyenleg eléréséhey ez a tárolási módszer elégséges.
+Időnként érdemes meggyőződni a borítékok érintetlenségéről, mert a seed 2/3-ának birtokában elvileg már lehetséges a maradék 1 harmad próbálgatással való megtalálása. Ehhez persze egy nagyteljesítményű számítógép \(pl. egy GPU rig\) és jelentős szaktudás szükséges. Ennek esélyét és az így tárolt maximális összeget mindenkinek magának kell fontolóra vennie.
 
+Nagyobb összegek biztonságos tárolására lásd ezt az angolul dokumentált módszert: https://github.com/openoms/bitcoin-tutorials/tree/master/backups
 
 # Privát kulcs generálás offline (cold storage)
 
